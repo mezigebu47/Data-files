@@ -1,0 +1,12 @@
+{
+  "course": "General Physics",
+  "chapter": "Chapter 1",
+  "part": "Part 1",
+  "title": "Vectors and Kinematics",
+  "content": [
+    {
+      "topic": "Introduction to Vectors",
+      "description": "Here is the summary of vector quantities and kinematics."
+    }
+  ]
+}
