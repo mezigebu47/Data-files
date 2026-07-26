@@ -1,0 +1,15 @@
+{
+  "course": "General Physics",
+  "category": "Mid",
+  "university": "University of Gondar",
+  "year": "2015",
+  "title": "General Physics Mid Exam 2015",
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the dimension of velocity?",
+      "options": ["LT^-1", "L^2T", "MLT^-2", "None"],
+      "answer": "LT^-1"
+    }
+  ]
+}
