@@ -2,20 +2,24 @@
     "course_code": "GeES 1011",
     "course_title": "Geography of Ethiopia and the Horn",
     "target_audience": "Freshman Students",
-    "app_purpose": "EthioFresh - Offline mobile study companion with local storage for course notes,all university mid and final exams with explanation and GPA calculator.",
+    "app_purpose": "EthioFresh - Offline mobile study companion with local storage for course notes, all university mid and final exams with explanation and GPA calculator.",
     "sections": [
         {
             "section_number": 1,
+            "title_amharic": "የካምፓስ ህይወት፣ ህልም እና ተግዳሮቶች",
+            "title_english": "Campus Life, Dreams & Challenges",
             "title": "የካምፓስ ህይወት፣ ህልም እና ተግዳሮቶች / Campus Life, Dreams & Challenges",
             "content": "ውድ የአንደኛ ዓመት (Freshman) ተማሪዎች፣ እንኳን ወደ ዩኒቨርሲቲያችን የካምፓስ ህይወት በደህና መጣችሁ! የካምፓስ ህይወት የነገ ህልማችሁን የምታነጹበት እና እራሳችሁን ለትልቅ ሃላፊነት የምታዘጋጁበት ወሳኝ ምዕራፍ ነው። ይህ ጉዞ የራሱ የሆኑ ተግዳሮቶች ቢኖሩትም፣ እነዚህን ፈተናዎች ማለፍ የበለጠ ጠንካራ ያደርጋችኋል። በዩኒቨርሲቲ ቆይታችሁ ስኬታማ ለመሆን የኮርስ ኖቶቻችሁን (course notes) እና መለማመጃ ፈተናዎችን በስልካችሁ ላይ በማንኛውም ጊዜ እና ቦታ ለማጥናት በሚመች መልኩ አደራጅቶ መያዝ እጅግ ወሳኝ ነው። በተጨማሪም የትምህርት አቀባበላችሁን ለመመዘን በየጊዜው አማካይ ውጤታችሁን (GPA calculator በመጠቀም) መከታተል ለስኬታችሁ ትልቅ አስተዋጽኦ ያደርጋል። አንድ ነገር ግን ልብ ማለት ይኖርባችኃል ወደ ዩንቨርሲቲ ስንገባ አዎ ብዙ ፈተናዎችን ተሻግረናል ይሁን እንጂ ዩንቨርስቲ መግባት የህይዎታችን የመጀመሪያ እንጅ የመጨረሻ ስኬታችን አይደለም። ምን ልላችሁ ፈልጌ መሰላችሁ? በተለይ የፍሬሽማን ውጤት የወደፊት የህይዎት ምርጫችሁን የመወሰን ከፍተኛ አቅም ስላለው ከወዲሁ በአይበገሬ ቁመና ከወዲሁ ኮርሱ እንድትጀምሩት ለማሳሰብ ነው። በግቢ ቆይታችሁ መረጃ ታላቅ ሀይል ስላለው መረጃን ከ ሴኔር ተማሪዎች፣ከክላስ ተማሪዎች ማሰባሰብ ይጠበቅባችኋል።ሌላው ደግሞ ከናንተ የሚጠበቀው ክላስ መከታተል ነው። ክላስ ቀጥቶ ባጠና ይሻላል በማለት ቤተ- መፅሐፍት ማሳለፍ 😎 በፍጹም እንዳታደርጉት ለምን መሰላችሁ በዚያን ሰዓት እናንተ ክላስ ቀጥታችሁ ካጠናችሁት በላይ አስተማሪያችሁ ክላስ ውስጥ የተናገራቼው ነገሮች ፈተና ላይ ስለሚመጡ ነው።ክላስ ላይ አስተማሪያችሁን በደንብ ከተከታተላችሁ፣ ይሄን የምናዘጋጅላችሁን Note ደጋግማችሁ ካጠናችሁትና የሁሉም ዩንቨርስቲ Mid እና Final Exam የምንለቅላችሁን ጥያቄዎች ከሰራችሁ በቂ ሰለሆነ ራሳችሁን ማጨናነቅ አይጠበቅባችሁም። ከዚህ በመቀጠል ለዛሬ አጠቃላይ የኮርሱን Introduction part በማየት እንጨርሰለን።"
         },
         {
             "section_number": 2,
+            "title_english": "General Course Introduction",
             "title": "General Course Introduction",
             "content": "The course 'Geography of Ethiopia and the Horn (GeES 1011)' is designed for freshman students across higher education institutions in Ethiopia. Its primary objective is to familiarize students with basic geographic concepts regarding Ethiopia and the Horn of Africa, building geographic literacy and helping students comprehend spatial problems, physical and human resource endowments, and their linkage to national development."
         },
         {
             "section_number": 3,
+            "title_english": "Deep Chapter Introduction & Concentrate Areas",
             "title": "Deep Chapter Introduction & Concentrate Areas",
             "chapters": [
                 {
