@@ -17,75 +17,75 @@
         {
             "section_number": 3,
             "title": "Deep Chapter Introduction & Concentrate Areas",
-            "chapters": [
+            "content": [
                 {
-                    "chapter": 1,
+                    "content": 1,
                     "title": "Introduction",
-                    "topics": [
+                    "title": [
                         "Scope and Themes: Examines definitions, scope, and major themes of geography, including human-physical and regional-topical continuums.",
                         "Location, Shape, and Size: Analyzes geopolitical, socio-cultural, and climatic implications of the location, shape, and size of Ethiopia and the Horn.",
                         "Map Reading: Equips students with basic map reading skills, including marginal information, scale, and grid references."
                     ]
                 },
                 {
-                    "chapter": 2,
+                    "content": 2,
                     "title": "The Geology of Ethiopia and the Horn",
-                    "topics": [
+                    "titlt": [
                         "Geological Evolution: Explores earth's evolution, internal/external processes, and chronological eras (Precambrian, Paleozoic, Mesozoic, and Cenozoic).",
                         "Stratigraphy & Tectonics: Covers formation of sedimentary layers (Adigrat Sandstone, Hintalo Limestone, Upper Sandstone), trap series volcanism, the Rift Valley, and distribution of rock and mineral resources."
                     ]
                 },
                 {
-                    "chapter": 3,
+                    "content": 3,
                     "title": "The Topography of Ethiopia and the Horn",
-                    "topics": [
+                    "title": [
                         "Physiographic Divisions: Breaks down major relief units into the Western Highlands/Lowlands, Southeastern Highlands/Lowlands, and the Rift Valley (Afar Triangle, Main Ethiopian Rift, Chew Bahir).",
                         "Socioeconomic Impacts: Analyzes how topography influences agriculture, settlement patterns, transportation, and climate."
                     ]
                 },
                 {
-                    "chapter": 4,
+                    "content": 4,
                     "title": "Drainage Systems and Water Resource of Ethiopia and the Horn",
-                    "topics": [
+                    "title": [
                         "Drainage Systems: Categorizes river basins into Western, Southeastern, and Rift Valley drainage systems.",
                         "Water Resources: Explores characteristics of major trans-boundary rivers, lakes, and their potential for hydroelectric power and irrigation development."
                     ]
                 },
                 {
-                    "chapter": 5,
+                    "content": 5,
                     "title": "The Climate of Ethiopia and the Horn",
-                    "topics": [
+                    "title": [
                         "Weather & Climate: Differentiates elements (temperature, precipitation, winds) and controls (latitude, altitude, ITCZ) of weather and climate.",
                         "Spatiotemporal Patterns & Change: Examines regional rainfall/temperature distributions, causes of climate change, and adaptation mechanisms."
                     ]
                 },
                 {
-                    "chapter": 6,
+                    "content": 6,
                     "title": "Soils, Natural Vegetation and Wildlife Resources of Ethiopia and the Horn",
-                    "topics": [
+                ": [
                         "Soil & Vegetation: Identifies major soil types, degradation factors, erosion control, and natural vegetation zones.",
                         "Wildlife: Covers endemic wildlife species, conservation areas, and protection challenges."
                     ]
                 },
                 {
-                    "chapter": 7,
+                    "content": 7,
                     "title": "Population of Ethiopia and the Horn",
-                    "topics": [
+        ": [
                         "Demographic Dynamics: Analyzes data sources, population growth, fertility, mortality, and migration.",
                         "Socio-Cultural Aspects: Examines population distribution, settlement patterns, language families, education, and health."
                     ]
                 },
                 {
-                    "chapter": 8,
+                    "content": 8,
                     "title": "Economic Activities in Ethiopia",
-                    "topics": [
+                    "title": [
                         "Sectors: Evaluates primary activities (agriculture, forestry, fishery, mining), manufacturing industries, and service sectors (transportation, communication, and tourism)."
                     ]
                 }
             ]
         },
         {
-            "section_number": 4,
+            "section_number
             "title": "ለተጨማሪ ስኬት (Beautiful Additions for Success)",
             "content": "ይህንን ኮርስ በተሳካ ሁኔታ ለማጠናቀቅ፣ ትምህርቱን ከእለት ተእለት አካባቢያችሁ እና ከሀገራችን ነባራዊ ሁኔታ ጋር እያገናዘባችሁ መማር አለባችሁ። ጠንካራ መሰረት ያለው አዲስ የሶፍትዌር ፕሮግራም ከስህተቶች የጸዳ (Bug-free) እንደሚሆነው ሁሉ፣ የእናንተም የካምፓስ ጉዞ ዛሬ በምታደርጉት ጠንካራ ዝግጅት፣ የጥናት ዲዛይን እና ግልጽ በሆነ ራዕይ የተቃኘ ይሁን። ቀጣይ part_2 የዚህን ኮርስ ትምህርት በይፋ እንጀምራለን እስከዚያው ድረስ ሰላማችሁ ይብዛልኝ 🙋‍♀️!መልካም እና ስኬታማ የዩኒቨርሲቲ ዘመን ይሁንላችሁ 🎓!ለስኬት በአብሮነት ወደፊት!🏃‍♀️🏃‍♂️🏃‍♂️🏃‍♀️ "
         }
