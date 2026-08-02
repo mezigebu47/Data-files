@@ -1,0 +1,331 @@
+[
+  {
+    "question": "1. Geography concerns on the arrangements, interrelationships & dynamism of phenomenon over the surface of the earth.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Geography studies spatial arrangements, interrelationships, and dynamism over the Earth's surface."
+  },
+  {
+    "question": "2. Ethiopia constitutes the largest proportion of elevated ground in Africa.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Ethiopia holds a massive share of Africa's high-altitude and mountainous regions, earning it the title 'Roof of East Africa'."
+  },
+  {
+    "question": "3. Ethiopia's experience of overhead sun twice in a year is attributed to its vicinal location.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Being located near the Equator (within the tropics) causes the sun to be directly overhead twice a year."
+  },
+  {
+    "question": "4. The lowest point in Ethiopia is found in the Lakes region.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The lowest point in Ethiopia is the Danakil/Afar Depression, not the Lakes region."
+  },
+  {
+    "question": "5. The geological time scale does not constitute a uniform length of time.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Geological time units vary significantly in length and are based on major evolutionary or geological events rather than uniform time blocks."
+  },
+  {
+    "question": "6. Which of the following best explains the difference between absolute and relative location?",
+    "options": {
+      "A": "Absolute location is a precise while relative location is vicinal measure",
+      "B": "Their only difference is that one is measured in latitude and the other in longitude",
+      "C": "Relative location is an exact while absolute location is a vicinal measure",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "Absolute location provides exact mathematical coordinates, whereas relative location describes a place in relation to other regions or features."
+  },
+  {
+    "question": "7. Ethiopian meteorological agency announced that it is providing rainfall to several drought prone regions using cloud mining/seeding. Which aspect is described by this example?",
+    "options": {
+      "A": "Modification",
+      "B": "Dependency",
+      "C": "Adaptation",
+      "D": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "Modification involves humans actively altering environmental conditions, such as cloud seeding to induce rainfall."
+  },
+  {
+    "question": "8. Identify the odd one:",
+    "options": {
+      "A": "Ogaden lowlands",
+      "B": "Ghibe lowlands",
+      "C": "Elkere lowlands",
+      "D": "Borena lowlands"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ghibe lowlands belong structurally to the Rift Valley / western region, whereas Ogaden, Elkere, and Borena are part of the southeastern lowlands."
+  },
+  {
+    "question": "9. Of the following alternatives one doesn't satisfy and/or reflect compactness of a country",
+    "options": {
+      "A": "Higher ratio of area to boundary",
+      "B": "Greater ratio of boundary to circumference",
+      "C": "Effective administration and economic integration within a country",
+      "D": "A closer to one ratio of area to area",
+      "E": "Greater ratio of area to circumference"
+    },
+    "correctAnswer": "B",
+    "explanation": "A compact country has a high ratio of area to boundary; a greater ratio of boundary to circumference indicates an elongated or irregular shape."
+  },
+  {
+    "question": "10. Which one of the following doesn't determine the contents of topographic map?",
+    "options": {
+      "A": "Purpose",
+      "B": "Scale",
+      "C": "Title",
+      "D": "Nature of the land to be represented",
+      "E": "Date of compilation"
+    },
+    "correctAnswer": "C",
+    "explanation": "Title is a marginal element used for identification rather than determining the physical geographic content represented on the map."
+  },
+  {
+    "question": "11. Which one is correct about continental drifting theory?",
+    "options": {
+      "A": "All present-day continents were emerged out of the same giant continent",
+      "B": "All continents were once assembled together as a single supercontinent",
+      "C": "Similar fossil across matching coastlines, rock type and paleoclimates among others proved the emergence of all continents from a single giant continent",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "All these statements correctly describe aspects and supporting evidence of Alfred Wegener's Continental Drift theory."
+  },
+  {
+    "question": "12. Which one is not correct about endogenic geological process?",
+    "options": {
+      "A": "It includes volcanic activity and all the tectonic processes",
+      "B": "It is only slow rising and sinking of the landmass",
+      "C": "It results in building of structural and volcanic features",
+      "D": "It is responsible for the makeup of structural & nonstructural landforms inside the earth",
+      "E": "None of the above"
+    },
+    "correctAnswer": "B",
+    "explanation": "Endogenic processes include rapid and violent events like volcanic eruptions and earthquakes, not only slow rising and sinking."
+  },
+  {
+    "question": "13. Which one is not part of geomorphic process?",
+    "options": {
+      "A": "Denudation",
+      "B": "Erosion and deposition",
+      "C": "Weathering and mass wasting",
+      "D": "Volcanism"
+    },
+    "correctAnswer": "D",
+    "explanation": "Volcanism is an endogenic (internal) geological process, whereas geomorphic processes primarily refer to exogenic (external) shaping processes."
+  },
+  {
+    "question": "14. The correct chronological order from oldest to recent geologic formation in Ethiopia is?",
+    "options": {
+      "A": "Pluvial rain -> Lakes & rivers -> Rift valley -> Upper sandstone -> Adigrat sandstone -> Crystalline rocks",
+      "B": "Crystalline rocks -> Adigrat sandstone -> Upper sandstone -> Rift valley -> Pluvial rain -> Lakes & rivers",
+      "C": "Crystalline rocks -> Upper sandstone -> Adigrat sandstone -> Lakes & rivers -> Pluvial rain -> Rift valley",
+      "D": "Rift valley -> Crystalline rocks -> Adigrat sandstone -> Upper sandstone -> Lakes & rivers -> Pluvial rain"
+    },
+    "correctAnswer": "B",
+    "explanation": "The correct sequence begins with the Precambrian crystalline basement, followed by Mesozoic depositions, Cenozoic faulting, and Quaternary pluvial rains and lake/river formations."
+  },
+  {
+    "question": "15. In Ethiopia rocks belonging to Precambrian Era had been subjected to",
+    "options": {
+      "A": "Pressure and heat from overlying weight",
+      "B": "Earth movements",
+      "C": "Intrusive igneous activity",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "Precambrian rocks underwent intense metamorphism driven by heat, pressure, mountain-building movements, and intrusive igneous activities."
+  },
+  {
+    "question": "16. Rock formation is absent in Ethiopia during",
+    "options": {
+      "A": "Paleozoic Era",
+      "B": "Precambrian Era",
+      "C": "Mesozoic Era",
+      "D": "Cenozoic Era",
+      "E": "All of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Paleozoic Era in Ethiopia is characterized by intense denudation and erosion rather than rock formation."
+  },
+  {
+    "question": "17. As surface rocks, the old marine sediments are extensively found in",
+    "options": {
+      "A": "Southeast lowlands",
+      "B": "Northcentral lowlands",
+      "C": "Northeast lowlands",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "Mesozoic marine sediments like limestones and sandstones are extensively exposed as surface rocks in the southeastern lowlands/plateaus."
+  },
+  {
+    "question": "18. The tectonic & volcanic activities that have an important effect in the making of the present-day landmass of Ethiopia and the Horn of Africa took place in",
+    "options": {
+      "A": "Precambrian Era",
+      "B": "Mesozoic Era",
+      "C": "Cenozoic Era",
+      "D": "Paleozoic Era",
+      "E": "All of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Cenozoic era shaped the modern highlands and rift landscape of Ethiopia through Trap series lavas, shield volcanoes, and Rift Valley faulting."
+  },
+  {
+    "question": "19. Which one is not correct about geologic activities that occur in Cenozoic era?",
+    "options": {
+      "A": "Uplifting of the Arabo-Ethiopian landmass",
+      "B": "Outcoming of huge quantity of lava",
+      "C": "Tertiary deposition",
+      "D": "Formation of the Rift Valley",
+      "E": "Quaternary volcanism"
+    },
+    "correctAnswer": "C",
+    "explanation": "Tertiary is primarily known for massive volcanic outpourings and structural faulting rather than extensive marine/tertiary sedimentary deposition."
+  },
+  {
+    "question": "20. Where not dissected by erosion, the Ethiopian plateau had flat and nearly horizontal surface as an expression of",
+    "options": {
+      "A": "Peneplained Precambrian surfaces",
+      "B": "Smothering effect of the Mesozoic deposition",
+      "C": "Spreading of the Trap series lava over the Mesozoic sediments",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": "The vast horizontal tablelands are largely formed by the extensive outpourings of Trap series lava sheets blanketing the underlying Mesozoic sedimentary layers."
+  },
+  {
+    "question": "21. The formation of the Rift Valley has the following structural/physiographic effects",
+    "options": {
+      "A": "Division of Ethiopian Plateau into two",
+      "B": "Separation of Arabian from African landmass",
+      "C": "Formation of the Dead Sea, Red Sea and the Gulf of Aden troughs",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "Rift valley tectonics split the Ethiopian plateau, separated Arabia from Africa, and formed connected oceanic and trench systems."
+  },
+  {
+    "question": "22. A deposit on the banks of rivers, flood plains both in plateau and foothills is",
+    "options": {
+      "A": "Lacustrine deposits",
+      "B": "Glacio-fluvial deposits",
+      "C": "Aeolian deposits",
+      "D": "Coastal and marine deposits",
+      "E": "Fluvial deposits"
+    },
+    "correctAnswer": "E",
+    "explanation": "Fluvial deposits refer to sediments deposited by rivers on floodplains and riverbanks."
+  },
+  {
+    "question": "23. In which mineral potential sites of Ethiopia do we find the Adola belt?",
+    "options": {
+      "A": "The Western and South-western-greenstone belt",
+      "B": "The Northern greenstone belts",
+      "C": "The Southern greenstone belts",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Adola belt is located in the southern greenstone belts of Ethiopia, famous for gold and other metallic mineral occurrences."
+  },
+  {
+    "question": "24. One of the following characterize Ethiopian highlands",
+    "options": {
+      "A": "Harsh climate for biotic life",
+      "B": "Widescale practice of irrigation",
+      "C": "Dense population and sedentary economic activity",
+      "D": "Prevalence of tropical diseases",
+      "E": "All of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Ethiopian highlands feature favorable temperate climates supporting dense populations and long-established sedentary agriculture."
+  },
+  {
+    "question": "25. Of the following one is correctly matched about the rift valley physiography?",
+    "options": {
+      "A": "The main Ethiopian Rift -> the narrowest and lowest part of the Rift valley",
+      "B": "The Chew Bahir Rift -> Section of the rift valley highly dominated by lakes",
+      "C": "The Afar Triangle -> the widest and highest part of the rift valley",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correctAnswer": "E",
+    "explanation": "Afar is the widest and lowest part (not highest), making the standard options incorrect, hence 'None of the above'."
+  },
+  {
+    "question": "26. Identify the wrong statement about the south western highlands",
+    "options": {
+      "A": "It is the wettest part in Ethiopia",
+      "B": "It is the second largest in the Western highlands",
+      "C": "Guge mountain is its highest peak",
+      "D": "More than one main rivers of Ethiopia drain within these highlands",
+      "E": "None of the above"
+    },
+    "correctAnswer": "E",
+    "explanation": "All statements A, B, C, and D regarding the southwestern highlands are correct facts, so there is no wrong statement among them ('None of the above')."
+  },
+  {
+    "question": "27. Which of the following event resulted to the transgression and regression of Indian ocean respectively during Mesozoic era?",
+    "options": {
+      "A": "Uplifting and sinking of the land",
+      "B": "Endogenic and exogenic activity",
+      "C": "Orogenic activity of the land",
+      "D": "Sinking and uplifting of the land",
+      "E": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": "Marine transgression occurs when land sinks (subsidence), and regression happens when land uplifts."
+  },
+  {
+    "question": "28. Identify the correct statement about Ethiopian geography?",
+    "options": {
+      "A": "The southeastern physiographic region is relatively highly dominated by highlands",
+      "B": "Its topography has nothing to do with climate, soil and vegetation",
+      "C": "The rugged topography is hindering hydroelectric power generation",
+      "D": "Due to its relatively elevated ground, it is described as the roof of East Africa",
+      "E": "The highlands have not been more significant than lowlands in the historical, economic, cultural, and political life of the people"
+    },
+    "correctAnswer": "D",
+    "explanation": "Ethiopia is widely known as the 'Roof of East Africa' due to its high overall elevation."
+  },
+  {
+    "question": "29. Which of the following plateaus has relatively extensive flat-topped uplands?",
+    "options": {
+      "A": "The Shewa Plateau",
+      "B": "The Hararghe Plateau",
+      "C": "The Tigray Plateau",
+      "D": "North Central Massifs",
+      "E": "None of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Shewa Plateau features extensive flat-topped lava plateaus."
+  }
+]
