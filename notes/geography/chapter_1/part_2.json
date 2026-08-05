@@ -1,143 +1,24 @@
 {
-  "ethioFresh_geography_module": [
+  "topics": [
     {
-      "section_id": "1.6",
-      "title": "The Shape of Ethiopia and its Implication (የኢትዮጵያ ቅርፅ እና አንድምታው)",
-      "overview": "Countries of the World have different kinds of shape that can be divided into five main categories. These shapes have implications on defense, administration and economic integration.",
-      "exam_hint": "💡 ፈተና ላይ፡ የቅርፅ አይነቶችን ከነ ምሳሌያቸው (ለምሳሌ: South Africa = Perforated, Chile = Elongated) እንዲሁም የ Compactness መለኪያዎችን (ለምሳሌ፡ B/C Ratio ወደ 1 ሲጠጋ ምን ማለት እንደሆነ) በደንብ ይጠይቃሉ።",
-      "shape_categories": [
-        {
-          "type": "Compact shape (የተሰበሰበ/ድቡልቡል ቅርፅ)",
-          "description": "The distance from the geographic centre to any of the borders does not vary greatly. It is easier for defence, socioeconomic and cultural integration."
-        },
-        {
-          "type": "Fragmented shape (የተበታተነ ቅርፅ)",
-          "description": "Divided from their other parts by either water, land or other countries."
-        },
-        {
-          "type": "Elongated shape (የተለጠጠ/ረጅም ቅርፅ)",
-          "description": "Geographically long and relatively narrow like Chile."
-        },
-        {
-          "type": "Perforated shape (የተበሳሳ/በውስጡ ሌላ ሀገር የያዘ ቅርፅ)",
-          "description": "A country that completely surrounds another country like the Republic of South Africa."
-        },
-        {
-          "type": "Protrude shape (ጉልህ/ወደ ውጭ የወጣ ቅርፅ)",
-          "description": "Countries that have one portion that is much more elongated than the rest of the country like Myanmar and Eritrea."
-        }
-      ],
-      "compactness_indices": [
-        {
-          "measure": "Area-Boundary (A/B) ratio",
-          "details": "The ratio of area of country to its boundary length. The higher the ratio, the greater the degree of compactness."
-        },
-        {
-          "measure": "Boundary-Circumference (B/C) ratio",
-          "details": "The ratio of boundary length to the circumference of a circle having the same area. The nearer the ratio to 1, the more compact the country is."
-        },
-        {
-          "measure": "Area-Circumference (A/C) ratio",
-          "details": "The ratio of the area to the circumference of the smallest inscribing circle. The higher the ratio, the greater the degree of compactness."
-        },
-        {
-          "measure": "Area-Area (A/A') ratio",
-          "details": "The ratio of the actual area to the smallest possible inscribing circle. The nearer the ratio to 1, the more compact the country is."
-        }
-      ],
-      "table_1_3_example": {
-        "title": "Ethiopia's shape compared to its neighbors in the Horn",
-        "columns": [
-          "Country",
-          "Area(km2)",
-          "Boundary (km)",
-          "A/B ratio",
-          "B/C ratio",
-          "A/C ratio"
-        ],
-        "data": [
-          {"country": "Ethiopia", "area": 1106000, "boundary": 5260, "ab_ratio": 210.27, "bc_ratio": 1.41, "ac_ratio": 296.61},
-          {"country": "Djibouti", "area": 22000, "boundary": 820, "ab_ratio": 26.83, "bc_ratio": 1.56, "ac_ratio": 41.83},
-          {"country": "Eritrea", "area": 117400, "boundary": 2420, "ab_ratio": 48.51, "bc_ratio": 1.99, "ac_ratio": 96.83},
-          {"country": "Kenya", "area": 582644, "boundary": 3600, "ab_ratio": 161.85, "bc_ratio": 1.33, "ac_ratio": 215.28},
-          {"country": "Somalia", "area": 637657, "boundary": 5100, "ab_ratio": 125.03, "bc_ratio": 1.80, "ac_ratio": 225.22}
-        ]
-      }
+      "title": "1.6. The Shape of Ethiopia and its Implication (የኢትዮጵያ ቅርፅ እና አንድምታው)",
+      "description": "Countries of the World have different kinds of shape that can be divided into five main categories. These shapes have implications on defense, administration and economic integration.\n\n💡 ፈተና ላይ፡ የቅርፅ አይነቶችን ከነ ምሳሌያቸው (ለምሳሌ: South Africa = Perforated, Chile = Elongated) እንዲሁም የ Compactness መለኪያዎችን (ለምሳሌ፡ B/C Ratio ወደ 1 ሲጠጋ ምን ማለት እንደሆነ) በደንብ ይጠይቃሉ።",
+      "content": "**Shape Categories (የቅርፅ አይነቶች):**\n• Compact shape (የተሰበሰበ/ድቡልቡል ቅርፅ): The distance from the geographic centre to any of the borders does not vary greatly. It is easier for defence, socioeconomic and cultural integration.\n• Fragmented shape (የተበታተነ ቅርፅ): Divided from their other parts by either water, land or other countries.\n• Elongated shape (የተለጠጠ/ረጅም ቅርፅ): Geographically long and relatively narrow like Chile.\n• Perforated shape (የተበሳሳ/በውስጡ ሌላ ሀገር የያዘ ቅርፅ): A country that completely surrounds another country like the Republic of South Africa.\n• Protrude shape (ጉልህ/ወደ ውጭ የወጣ ቅርፅ): Countries that have one portion that is much more elongated than the rest of the country like Myanmar and Eritrea.\n\n**Compactness Indices (የመጠቅለል መለኪያዎች):**\n• Area-Boundary (A/B) ratio: The ratio of area of country to its boundary length. The higher the ratio, the greater the degree of compactness.\n• Boundary-Circumference (B/C) ratio: The ratio of boundary length to the circumference of a circle having the same area. The nearer the ratio to 1, the more compact the country is.\n• Area-Circumference (A/C) ratio: The ratio of the area to the circumference of the smallest inscribing circle. The higher the ratio, the greater the degree of compactness.\n• Area-Area (A/A') ratio: The ratio of the actual area to the smallest possible inscribing circle. The nearer the ratio to 1, the more compact the country is.\n\n**Table 1.3: Ethiopia's shape compared to its neighbors in the Horn**\n- Ethiopia: Area=1,106,000 | Boundary=5,260 | A/B=210.27 | B/C=1.41 | A/C=296.61\n- Djibouti: Area=22,000 | Boundary=820 | A/B=26.83 | B/C=1.56 | A/C=41.83\n- Eritrea: Area=117,400 | Boundary=2,420 | A/B=48.51 | B/C=1.99 | A/C=96.83\n- Kenya: Area=582,644 | Boundary=3,600 | A/B=161.85 | B/C=1.33 | A/C=215.28\n- Somalia: Area=637,657 | Boundary=5,100 | A/B=125.03 | B/C=1.80 | A/C=225.22"
     },
     {
-      "section_id": "1.7",
-      "title": "Basic Skills of Map Reading (የካርታ ንባብ መሰረታዊ ክህሎቶች)",
-      "definition": "A map is a two-dimensional scaled representation of part or whole of the Earth surface on a flat body. Map reading encompasses a systematic identification of natural (mountains, plateaus, valleys, rivers) and manmade features (roads, railways, buildings, dams).",
-      "exam_hint": "💡 ፈተና ላይ፡ Map Reading ምን ምን ነገሮችን (Natural vs Manmade features) መለየት እንደሆነ እና የካርታን አጠቃላይ ጠቀሜታዎች (Importance of map) በ True/False ወይም Multiple Choice ይጠይቃሉ።",
-      "importance": [
-        "Provide the basis for making geographical details of regions represented (relief, drainage, settlement).",
-        "Powerful tools for making spatial analysis of geographical facts.",
-        "Useful for giving location of geographical features using grid reference and place naming.",
-        "Used across various disciplines like land use planning, military science, aviation, tourism, epidemiology, etc.",
-        "Makes storage of the geographical data of areas represented.",
-        "Potentially used to assess reliable measurements of geographical features."
-      ]
+      "title": "1.7. Basic Skills of Map Reading (የካርታ ንባብ መሰረታዊ ክህሎቶች)",
+      "description": "A map is a two-dimensional scaled representation of part or whole of the Earth surface on a flat body. Map reading encompasses a systematic identification of natural and manmade features.\n\n💡 ፈተና ላይ፡ Map Reading ምን ምን ነገሮችን (Natural vs Manmade features) መለየት እንደሆነ እና የካርታን አጠቃላይ ጠቀሜታዎች (Importance of map) በ True/False ወይም Multiple Choice ይጠይቃሉ።",
+      "content": "**Importance of Maps (የካርታ ጠቀሜታዎች):**\n• Provide the basis for making geographical details of regions represented (relief, drainage, settlement).\n• Powerful tools for making spatial analysis of geographical facts.\n• Useful for giving location of geographical features using grid reference and place naming.\n• Used across various disciplines like land use planning, military science, aviation, tourism, epidemiology, etc.\n• Makes storage of the geographical data of areas represented.\n• Potentially used to assess reliable measurements of geographical features."
     },
     {
-      "section_id": "1.8",
-      "title": "Types of Map and Marginal Information (የካርታ አይነቶች እና መግለጫ መረጃዎች)",
-      "exam_hint": "💡 ፈተና ላይ፡ Topographical እና Statistical map ልዩነታቸውን፤ እንዲሁም Marginal information (Scale, Key, North Arrow) ምንነትንና ጥቅምን በደንብ ያዙ።",
-      "map_types": [
-        {
-          "type": "Topographical maps (የገፅታ ካርታዎች)",
-          "details": "Depict one or more natural and cultural features. Can be small, medium or large scale. Contents depend on purpose, scale, date of compilation, and nature of the land."
-        },
-        {
-          "type": "Special purpose/statistical maps (ልዩ/የስታቲስቲክስ ካርታዎች)",
-          "details": "Show distribution of different aspects such as temperature, rainfall, settlement, vegetation."
-        }
-      ],
-      "marginal_information": [
-        {
-          "element": "Title (ርዕስ)",
-          "purpose": "Heading of the map which tells what the map is all about."
-        },
-        {
-          "element": "Key/legend (መፍቻ)",
-          "purpose": "List of all conventional symbols and signs shown on the map with their interpretation."
-        },
-        {
-          "element": "Scale (ስኬል/መጠን)",
-          "purpose": "Ratio between the map distance and actual ground distance (representative fraction, statement/verbal, linear/graphic)."
-        },
-        {
-          "element": "North arrow (የሰሜን አቅጣጫ ጠቋሚ)",
-          "purpose": "Indicated with the north direction; used to know other important directions (east, west, south)."
-        },
-        {
-          "element": "Margin (ማዕቀፍ)",
-          "purpose": "The frame of the map showing the end of the mapped area."
-        },
-        {
-          "element": "Date of compilation (የታተመበት ቀን)",
-          "purpose": "Date of publication enabling users to realize whether the map is updated or outdated."
-        }
-      ]
+      "title": "1.8. Types of Map and Marginal Information (የካርታ አይነቶች እና መግለጫ መረጃዎች)",
+      "description": "💡 ፈተና ላይ፡ Topographical እና Statistical map ልዩነታቸውን፤ እንዲሁም Marginal information (Scale, Key, North Arrow) ምንነትንና ጥቅምን በደንብ ያዙ።",
+      "content": "**Types of Map (የካርታ አይነቶች):**\n• Topographical maps (የገፅታ ካርታዎች): Depict one or more natural and cultural features. Can be small, medium or large scale. Contents depend on purpose, scale, date of compilation, and nature of the land.\n• Special purpose/statistical maps (ልዩ/የስታቲስቲክስ ካርታዎች): Show distribution of different aspects such as temperature, rainfall, settlement, vegetation.\n\n**Marginal Information (መግለጫ መረጃዎች):**\n• Title (ርዕስ): Heading of the map which tells what the map is all about.\n• Key/legend (መፍቻ): List of all conventional symbols and signs shown on the map with their interpretation.\n• Scale (ስኬል/መጠን): Ratio between the map distance and actual ground distance (representative fraction, statement/verbal, linear/graphic).\n• North arrow (የሰሜን አቅጣጫ ጠቋሚ): Indicated with the north direction; used to know other important directions (east, west, south).\n• Margin (ማዕቀፍ): The frame of the map showing the end of the mapped area.\n• Date of compilation (የታተመበት ቀን): Date of publication enabling users to realize whether the map is updated or outdated."
     },
     {
-      "section_id": "1.9",
-      "title": "Basic Principles of Map Reading (የካርታ ንባብ መሰረታዊ መርሆዎች)",
-      "exam_hint": "💡 ፈተና ላይ፡ Grid Reference System እንዴት ቦታን በትክክል ለማግኘት (Pinpoint location) እንደሚረዳ መገንዘብ ወሳኝ ነው።",
-      "principles": [
-        {
-          "principle": "Visualizing Symbols",
-          "details": "Readers must translate map symbols into landscape images. The first symbols introduced should refer to familiar landscape features."
-        },
-        {
-          "principle": "Knowledge of Directions",
-          "details": "Essential to orient and locate places. The north arrow should be determined first before locating features in relation to one another."
-        },
-        {
-          "principle": "Grid Reference Systems",
-          "details": "Maps are covered in a series of lines that make up a grid with numbers. These numbers provide a grid reference to accurately pinpoint a location."
-        }
-      ],
-      "end_note": "ቻፕተር_1 ጨርሰናል በቀጣይ ቻፕተር_2 እንጀምራለን መልካም የጥናት ጊዜ ተመኘሁላችሁ😎።"
+      "title": "1.9. Basic Principles of Map Reading (የካርታ ንባብ መሰረታዊ መርሆዎች)",
+      "description": "💡 ፈተና ላይ፡ Grid Reference System እንዴት ቦታን በትክክል ለማግኘት (Pinpoint location) እንደሚረዳ መገንዘብ ወሳኝ ነው።",
+      "content": "**Principles (መርሆዎች):**\n• Visualizing Symbols: Readers must translate map symbols into landscape images. The first symbols introduced should refer to familiar landscape features.\n• Knowledge of Directions: Essential to orient and locate places. The north arrow should be determined first before locating features in relation to one another.\n• Grid Reference Systems: Maps are covered in a series of lines that make up a grid with numbers. These numbers provide a grid reference to accurately pinpoint a location.\n\nቻፕተር_1 ጨርሰናል በቀጣይ ቻፕተር_2 እንጀምራለን መልካም የጥናት ጊዜ ተመኘሁላችሁ😎።"
     }
   ]
 }
