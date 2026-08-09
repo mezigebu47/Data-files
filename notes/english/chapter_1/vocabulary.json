@@ -1,0 +1,194 @@
+{
+  "title": "Unit 1: Study Skills - Key Vocabulary & Terminology",
+  "content": [
+    {
+      "word": "Transient",
+      "part_of_speech": "Adjective",
+      "meaning_en": "Lasting for a very short time; temporary.",
+      "meaning_am": "ጊዜያዊ፣ አላፊ",
+      "synonyms": ["Temporary", "Fleeting"],
+      "antonyms": ["Permanent", "Lasting"],
+      "example_sentence": "Spoken language is transient, so taking notes during a lecture is essential."
+    },
+    {
+      "word": "Distractions",
+      "part_of_speech": "Noun",
+      "meaning_en": "Things that prevent someone from giving full attention.",
+      "meaning_am": "ትኩረት የሚስቡ/የሚያበላሹ ነገሮች",
+      "synonyms": ["Interruptions", "Disturbances"],
+      "antonyms": ["Focus", "Concentration"],
+      "example_sentence": "Sit near the front of the room to avoid environmental distractions."
+    },
+    {
+      "word": "Verbatim",
+      "part_of_speech": "Adverb / Adjective",
+      "meaning_en": "In exactly the same words as were used originally.",
+      "meaning_am": "ቃል በቃል",
+      "synonyms": ["Word-for-word", "Exactly"],
+      "antonyms": ["Paraphrased", "Summarized"],
+      "example_sentence": "Do not try to write down the lecture verbatim; focus on main ideas."
+    },
+    {
+      "word": "Cues",
+      "part_of_speech": "Noun",
+      "meaning_en": "Signals or hints given by a speaker to indicate key points.",
+      "meaning_am": "ጠቋሚ ምልክቶች",
+      "synonyms": ["Signals", "Hints", "Indicators"],
+      "antonyms": [],
+      "example_sentence": "Good students listen for vocal cues from the lecturer to identify important topics."
+    },
+    {
+      "word": "Discriminating",
+      "part_of_speech": "Adjective",
+      "meaning_en": "Having or showing refined judgment; selective.",
+      "meaning_am": "መምረጥ የሚያውቅ፣ ለይቶ አዋቂ",
+      "synonyms": ["Selective", "Perceptive"],
+      "antonyms": ["Indiscriminate", "Careless"],
+      "example_sentence": "Effective note-taking requires being a discriminating listener."
+    },
+    {
+      "word": "Invaluable",
+      "part_of_speech": "Adjective",
+      "meaning_en": "Extremely useful; priceless.",
+      "meaning_am": "እጅግ ጠቃሚ፣ ዋጋ የማይተመንለት",
+      "synonyms": ["Priceless", "Crucial"],
+      "antonyms": ["Worthless", "Useless"],
+      "example_sentence": "Reading provides invaluable knowledge for your future career."
+    },
+    {
+      "word": "Skim",
+      "part_of_speech": "Verb",
+      "meaning_en": "Read quickly to get the general idea or gist.",
+      "meaning_am": "አጠቃላይ ሐሳቡን ለማግኘት በፍጥነት ማንበብ",
+      "synonyms": ["Glance through", "Scan roughly"],
+      "antonyms": ["Read thoroughly"],
+      "example_sentence": "I skimmed through the chapter to understand the main topic before class."
+    },
+    {
+      "word": "Scan",
+      "part_of_speech": "Verb",
+      "meaning_en": "Look through text quickly to locate a specific piece of information.",
+      "meaning_am": "የተወሰነ መረጃ/ቃል በፍጥነት መፈለግ",
+      "synonyms": ["Search", "Browse"],
+      "antonyms": [],
+      "example_sentence": "Scan the table of contents to find where the vocabulary section is located."
+    },
+    {
+      "word": "Assimilate",
+      "part_of_speech": "Verb",
+      "meaning_en": "Take in and fully understand information or ideas.",
+      "meaning_am": "መቀበል፣ መረዳት፣ መዋሃድ",
+      "synonyms": ["Absorb", "Comprehend"],
+      "antonyms": ["Misunderstand", "Reject"],
+      "example_sentence": "Students read academic books to assimilate new concepts into their understanding."
+    },
+    {
+      "word": "Repertoire",
+      "part_of_speech": "Noun",
+      "meaning_en": "A stock of skills, techniques, or devices used in a particular field.",
+      "meaning_am": "የተካኑባቸው ክህሎቶች/ልምዶች ስብስብ",
+      "synonyms": ["Collection", "Stock", "Range"],
+      "antonyms": [],
+      "example_sentence": "University students should use their entire repertoire of reading skills."
+    },
+    {
+      "word": "Cursory",
+      "part_of_speech": "Adjective",
+      "meaning_en": "Hasty and therefore not thorough or detailed.",
+      "meaning_am": "ላዩን ብቻ የሆነ፣ ፈጣን ምልከታ",
+      "synonyms": ["Superficial", "Hasty"],
+      "antonyms": ["Thorough", "Detailed"],
+      "example_sentence": "A newspaper often gives only a cursory coverage of complex events."
+    },
+    {
+      "word": "At their disposal",
+      "part_of_speech": "Idiom / Phrase",
+      "meaning_en": "Available for one's use whenever desired.",
+      "meaning_am": "በእጃቸው ላይ ያለ፣ ለመጠቀም የተዘጋጀ",
+      "synonyms": ["Available", "Ready for use"],
+      "antonyms": [],
+      "example_sentence": "Students have various learning strategies at their disposal."
+    },
+    {
+      "word": "Keys",
+      "part_of_speech": "Noun",
+      "meaning_en": "Essential tools or crucial factors that provide access to understanding.",
+      "meaning_am": "ዋና ቁልፎች፣ ወሳኝ መሳሪያዎች",
+      "synonyms": ["Essentials", "Secrets", "Solutions"],
+      "antonyms": [],
+      "example_sentence": "Reading skills are the keys to unlocking complex academic knowledge."
+    },
+    {
+      "word": "Access",
+      "part_of_speech": "Noun / Verb",
+      "meaning_en": "The opportunity or means to enter, approach, or retrieve information.",
+      "meaning_am": "ማግኘት፣ የመጠቀም ዕድል",
+      "synonyms": ["Entry", "Admission", "Availability"],
+      "antonyms": ["Restriction", "Limitation"],
+      "example_sentence": "Students need easy access to diverse library reference materials."
+    },
+    {
+      "word": "Perceptions",
+      "part_of_speech": "Noun",
+      "meaning_en": "The ways in which something is regarded, understood, or interpreted.",
+      "meaning_am": "ግንዛቤዎች፣ አመለካከቶች",
+      "synonyms": ["Views", "Insights", "Attitudes"],
+      "antonyms": ["Misunderstandings"],
+      "example_sentence": "Academic reading helps broaden a student's perceptions of world issues."
+    },
+    {
+      "word": "Interpreted",
+      "part_of_speech": "Verb (Past Tense)",
+      "meaning_en": "Explained, understood, or analyzed in a specified way.",
+      "meaning_am": "ተተረጎመ፣ ትርጉም ተሰጠው",
+      "synonyms": ["Understood", "Analyzed", "Clarified"],
+      "antonyms": ["Misconstrued"],
+      "example_sentence": "The survey results were interpreted using statistical analysis."
+    },
+    {
+      "word": "Glancing through",
+      "part_of_speech": "Phrasal Verb",
+      "meaning_en": "Looking at or reading something very quickly without paying attention to detail.",
+      "meaning_am": "ላዩን መመልከት፣ በፍጥነት ማየት",
+      "synonyms": ["Browsing", "Skimming", "Flipping through"],
+      "antonyms": ["Studying", "Scrutinizing"],
+      "example_sentence": "He was glancing through the daily paper while waiting for the lecture."
+    },
+    {
+      "word": "Extract",
+      "part_of_speech": "Verb",
+      "meaning_en": "To remove, derive, or select specific facts or main points from a text.",
+      "meaning_am": "መቀነስ፣ መረጃ መዞር/ማውጣት",
+      "synonyms": ["Obtain", "Withdraw", "Gather"],
+      "antonyms": ["Insert"],
+      "example_sentence": "Effective note-takers extract only the essential points from the presentation."
+    },
+    {
+      "word": "Vary",
+      "part_of_speech": "Verb",
+      "meaning_en": "To change or differ according to the circumstances or purpose.",
+      "meaning_am": "መለያየት፣ መለዋወጥ",
+      "synonyms": ["Differ", "Alter", "Fluctuate"],
+      "antonyms": ["Remain constant"],
+      "example_sentence": "Your reading speed should vary based on the difficulty of the passage."
+    },
+    {
+      "word": "Themes",
+      "part_of_speech": "Noun",
+      "meaning_en": "The main ideas, subjects, or underlying topics in a text or lecture.",
+      "meaning_am": "ዋና ዋና ርዕሰ ጉዳዮች/ሀሳቦች",
+      "synonyms": ["Topics", "Subject matters", "Core ideas"],
+      "antonyms": [],
+      "example_sentence": "The professor outlined the central themes of the course during the orientation."
+    },
+    {
+      "word": "Recognizing",
+      "part_of_speech": "Verb (Present Participle)",
+      "meaning_en": "Identifying or acknowledging words, concepts, or details previously learned.",
+      "meaning_am": "መለየት፣ ማወቅ",
+      "synonyms": ["Identifying", "Perceiving"],
+      "antonyms": ["Ignoring", "Overlooking"],
+      "example_sentence": "Reading is about understanding context, not just recognizing individual words."
+    }
+  ]
+}
