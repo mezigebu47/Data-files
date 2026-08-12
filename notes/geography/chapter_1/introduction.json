@@ -1,93 +1,93 @@
 {
-    "course_code": "GeES 1011",
-    "course_title": "Geography of Ethiopia and the Horn",
-    "target_audience": "Freshman Students",
-    "app_purpose": "EthioFresh - Offline mobile study companion with local storage for course notes, all university mid and final exams with explanation and GPA calculator.",
-    "sections": [
+  "course_code": "GeES 1011",
+  "course_title": "Geography of Ethiopia and the Horn",
+  "target_audience": "Freshman Students",
+  "app_purpose": "EthioFresh - Offline mobile study companion with local storage for course notes, all university mid and final exams with explanation and GPA calculator.",
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "የካምፓስ ህይወት፣ ህልም እና ተግዳሮቶች / Campus Life, Dreams & Challenges",
+      "content": "ውድ የአንደኛ ዓመት (Freshman) ተማሪዎች፣ እንኳን ወደ ዩኒቨርሲቲያችን የካምፓስ ህይወት በደህና መጣችሁ! የካምፓስ ህይወት የነገ ህልማችሁን የምታነጹበት እና እራሳችሁን ለትልቅ ሃላፊነት የምታዘጋጁበት ወሳኝ ምዕራፍ ነው። ይህ ጉዞ የራሱ የሆኑ ተግዳሮቶች ቢኖሩትም፣ እነዚህን ፈተናዎች ማለፍ የበለጠ ጠንካራ ያደርጋችኋል። በዩኒቨርሲቲ ቆይታችሁ ስኬታማ ለመሆን የኮርስ ኖቶቻችሁን (course notes) እና መለማመጃ ፈተናዎችን በስልካችሁ ላይ በማንኛውም ጊዜ እና ቦታ ለማጥናት በሚመች መልኩ አደራጅቶ መያዝ እጅግ ወሳኝ ነው። በተጨማሪም የትምህርት አቀባበላችሁን ለመመዘን በየጊዜው አማካይ ውጤታችሁን (GPA calculator በመጠቀም) መከታተል ለስኬታችሁ ትልቅ አስተዋጽኦ ያደርጋል። አንድ ነገር ግን ልብ ማለት ይኖርባችኃል ወደ ዩንቨርሲቲ ስንገባ አዎ ብዙ ፈተናዎችን ተሻግረናል ይሁን እንጂ ዩንቨርስቲ መግባት የህይዎታችን የመጀመሪያ እንጅ የመጨረሻ ስኬታችን አይደለም። ምን ልላችሁ ፈልጌ መሰላችሁ? በተለይ የፍሬሽማን ውጤት የወደፊት የህይዎት ምርጫችሁን የመወሰን ከፍተኛ አቅም ስላለው ከወዲሁ በአይበገሬ ቁመና ከወዲሁ ኮርሱ እንድትጀምሩት ለማሳሰብ ነው። በግቢ ቆይታችሁ መረጃ ታላቅ ሀይል ስላለው መረጃን ከ ሴኔር ተማሪዎች፣ከክላስ ተማሪዎች ማሰባሰብ ይጠበቅባችኋል።ሌላው ደግሞ ከናንተ የሚጠበቀው ክላስ መከታተል ነው። ክላስ ቀጥቶ ባጠና ይሻላል በማለት ቤተ- መፅሐፍት ማሳለፍ 😎 በፍጹም እንዳታደርጉት ለምን መሰላችሁ በዚያን ሰዓት እናንተ ክላስ ቀጥታችሁ ካጠናችሁት በላይ አስተማሪያችሁ ክላስ ውስጥ የተናገራቼው ነገሮች ፈተና ላይ ስለሚመጡ ነው።ክላስ ላይ አስተማሪያችሁን በደንብ ከተከታተላችሁ፣ ይሄን የምናዘጋጅላችሁን Note ደጋግማችሁ ካጠናችሁትና የሁሉም ዩንቨርስቲ Mid እና Final Exam የምንለቅላችሁን ጥያቄዎች ከሰራችሁ በቂ ሰለሆነ ራሳችሁን ማጨናነቅ አይጠበቅባችሁም ፣በአጠቃላይ ይህ ኮርስ ቀለል ብሏችሁ የምትማሩትና የተሻለ ውጤትም የምትሰሩበት ነው፣ተከታተሉኝ ትወዱታላችሁ 😎😎😎። ከዚህ በመቀጠል ለዛሬ አጠቃላይ የኮርሱን Introduction part በማየት እንጨርሰለን።"
+    },
+    {
+      "section_number": 2,
+      "title": "General Course Introduction",
+      "content": "The course <b>'Geography of Ethiopia and the Horn (GeES 1011)'</b> is designed for freshman students across higher education institutions in Ethiopia. Its primary objective is to familiarize students with basic geographic concepts regarding <b>Ethiopia and the Horn of Africa</b>, building geographic literacy and helping students comprehend spatial problems, physical and human resource endowments, and their linkage to national development.\n\n👉 <font color=\"#00B0FF\">የዚህ ኮርስ ዋና አላማ ተማሪዎች ስለ ኢትዮጵያ እና የአፍሪካ ቀንድ መሰረታዊ የጂኦግራፊ እውቀት እንዲኖራቸው ማድረግ፣ የመሬትና የሰው ሀብት እሴቶችን እንዲሁም ከሀገራዊ እድገት ጋር ያላቸውን ቁርኝት እንዲረዱ መርዳት ነው።</font>"
+    },
+    {
+      "section_number": 3,
+      "title": "Deep Chapter Introduction & Concentrate Areas",
+      "chapters": [
         {
-            "section_number": 1,
-            "title": "የካምፓስ ህይወት፣ ህልም እና ተግዳሮቶች / Campus Life, Dreams & Challenges",
-            "content": "ውድ የአንደኛ ዓመት (Freshman) ተማሪዎች፣ እንኳን ወደ ዩኒቨርሲቲያችን የካምፓስ ህይወት በደህና መጣችሁ! የካምፓስ ህይወት የነገ ህልማችሁን የምታነጹበት እና እራሳችሁን ለትልቅ ሃላፊነት የምታዘጋጁበት ወሳኝ ምዕራፍ ነው። ይህ ጉዞ የራሱ የሆኑ ተግዳሮቶች ቢኖሩትም፣ እነዚህን ፈተናዎች ማለፍ የበለጠ ጠንካራ ያደርጋችኋል። በዩኒቨርሲቲ ቆይታችሁ ስኬታማ ለመሆን የኮርስ ኖቶቻችሁን (course notes) እና መለማመጃ ፈተናዎችን በስልካችሁ ላይ በማንኛውም ጊዜ እና ቦታ ለማጥናት በሚመች መልኩ አደራጅቶ መያዝ እጅግ ወሳኝ ነው። በተጨማሪም የትምህርት አቀባበላችሁን ለመመዘን በየጊዜው አማካይ ውጤታችሁን (GPA calculator በመጠቀም) መከታተል ለስኬታችሁ ትልቅ አስተዋጽኦ ያደርጋል። አንድ ነገር ግን ልብ ማለት ይኖርባችኃል ወደ ዩንቨርሲቲ ስንገባ አዎ ብዙ ፈተናዎችን ተሻግረናል ይሁን እንጂ ዩንቨርስቲ መግባት የህይዎታችን የመጀመሪያ እንጅ የመጨረሻ ስኬታችን አይደለም። ምን ልላችሁ ፈልጌ መሰላችሁ? በተለይ የፍሬሽማን ውጤት የወደፊት የህይዎት ምርጫችሁን የመወሰን ከፍተኛ አቅም ስላለው ከወዲሁ በአይበገሬ ቁመና ከወዲሁ ኮርሱ እንድትጀምሩት ለማሳሰብ ነው። በግቢ ቆይታችሁ መረጃ ታላቅ ሀይል ስላለው መረጃን ከ ሴኔር ተማሪዎች፣ከክላስ ተማሪዎች ማሰባሰብ ይጠበቅባችኋል።ሌላው ደግሞ ከናንተ የሚጠበቀው ክላስ መከታተል ነው። ክላስ ቀጥቶ ባጠና ይሻላል በማለት ቤተ- መፅሐፍት ማሳለፍ 😎 በፍጹም እንዳታደርጉት ለምን መሰላችሁ በዚያን ሰዓት እናንተ ክላስ ቀጥታችሁ ካጠናችሁት በላይ አስተማሪያችሁ ክላስ ውስጥ የተናገራቼው ነገሮች ፈተና ላይ ስለሚመጡ ነው።ክላስ ላይ አስተማሪያችሁን በደንብ ከተከታተላችሁ፣ ይሄን የምናዘጋጅላችሁን Note ደጋግማችሁ ካጠናችሁትና የሁሉም ዩንቨርስቲ Mid እና Final Exam የምንለቅላችሁን ጥያቄዎች ከሰራችሁ በቂ ሰለሆነ ራሳችሁን ማጨናነቅ አይጠበቅባችሁም ፣በአጠቃላይ ይህ ኮርስ ቀለል ብሏችሁ የምትማሩትና የተሻለ ውጤትም የምትሰሩበት ነው፣ተከታተሉኝ ትወዱታላችሁ 😎😎😎። ከዚህ በመቀጠል ለዛሬ አጠቃላይ የኮርሱን Introduction part በማየት እንጨርሰለን።"
+          "chapter": 1,
+          "title": "Introduction",
+          "topics": [
+            "<b>Scope and Themes:</b> Examines definitions, scope, and major themes of geography, including human-physical and regional-topical continuums.\n👉 <font color=\"#00B0FF\">የጂኦግራፊ ትርጉም፣ ስፋት እና ዋና ዋና ጭብጦችን ይመረምራል።</font>",
+            "<b>Location, Shape, and Size:</b> Analyzes geopolitical, socio-cultural, and climatic implications of the location, shape, and size of Ethiopia and the Horn.\n👉 <font color=\"#00B0FF\">የኢትዮጵያ እና የአፍሪካ ቀንድ ቦታ፣ ቅርፅ እና ስፋት የሚያስከትሉትን ጂኦፖሊቲካዊ እና አየር ንብረታዊ ተጽእኖዎች ይተነትናል።</font>",
+            "<b>Map Reading:</b> Equips students with basic map reading skills, including marginal information, scale, and grid references.\n👉 <font color=\"#00B0FF\">መሰረታዊ የካርታ ንባብ ክህሎቶችን ያስጨብጣል።</font>"
+          ]
         },
         {
-            "section_number": 2,
-            "title": "General Course Introduction",
-            "content": "The course 'Geography of Ethiopia and the Horn (GeES 1011)' is designed for freshman students across higher education institutions in Ethiopia. Its primary objective is to familiarize students with basic geographic concepts regarding Ethiopia and the Horn of Africa, building geographic literacy and helping students comprehend spatial problems, physical and human resource endowments, and their linkage to national development."
+          "chapter": 2,
+          "title": "The Geology of Ethiopia and the Horn",
+          "topics": [
+            "<b>Geological Evolution:</b> Explores earth's evolution, internal/external processes, and chronological eras (Precambrian, Paleozoic, Mesozoic, and Cenozoic).\n👉 <font color=\"#00B0FF\">የመሬት እድገት ታሪክ እና የተለያዩ የጂኦሎጂካል ዘመናትን ያጠናል።</font>",
+            "<b>Stratigraphy & Tectonics:</b> Covers formation of sedimentary layers (Adigrat Sandstone, Hintalo Limestone, Upper Sandstone), trap series volcanism, the Rift Valley, and distribution of rock and mineral resources.\n👉 <font color=\"#00B0FF\">የደለል ድንጋዮች አፈጣጠር፣ የስምጥ ሸለቆ እና የድንጋይና ማዕድን ሀብቶች ስርጭትን ያብራራል።</font>"
+          ]
         },
         {
-            "section_number": 3,
-            "title": "Deep Chapter Introduction & Concentrate Areas",
-            "chapters": [
-                {
-                    "chapter": 1,
-                    "title": "Introduction",
-                    "topics": [
-                        "Scope and Themes: Examines definitions, scope, and major themes of geography, including human-physical and regional-topical continuums.",
-                        "Location, Shape, and Size: Analyzes geopolitical, socio-cultural, and climatic implications of the location, shape, and size of Ethiopia and the Horn.",
-                        "Map Reading: Equips students with basic map reading skills, including marginal information, scale, and grid references."
-                    ]
-                },
-                {
-                    "chapter": 2,
-                    "title": "The Geology of Ethiopia and the Horn",
-                    "topics": [
-                        "Geological Evolution: Explores earth's evolution, internal/external processes, and chronological eras (Precambrian, Paleozoic, Mesozoic, and Cenozoic).",
-                        "Stratigraphy & Tectonics: Covers formation of sedimentary layers (Adigrat Sandstone, Hintalo Limestone, Upper Sandstone), trap series volcanism, the Rift Valley, and distribution of rock and mineral resources."
-                    ]
-                },
-                {
-                    "chapter": 3,
-                    "title": "The Topography of Ethiopia and the Horn",
-                    "topics": [
-                        "Physiographic Divisions: Breaks down major relief units into the Western Highlands/Lowlands, Southeastern Highlands/Lowlands, and the Rift Valley (Afar Triangle, Main Ethiopian Rift, Chew Bahir).",
-                        "Socioeconomic Impacts: Analyzes how topography influences agriculture, settlement patterns, transportation, and climate."
-                    ]
-                },
-                {
-                    "chapter": 4,
-                    "title": "Drainage Systems and Water Resource of Ethiopia and the Horn",
-                    "topics": [
-                        "Drainage Systems: Categorizes river basins into Western, Southeastern, and Rift Valley drainage systems.",
-                        "Water Resources: Explores characteristics of major trans-boundary rivers, lakes, and their potential for hydroelectric power and irrigation development."
-                    ]
-                },
-                {
-                    "chapter": 5,
-                    "title": "The Climate of Ethiopia and the Horn",
-                    "topics": [
-                        "Weather & Climate: Differentiates elements (temperature, precipitation, winds) and controls (latitude, altitude, ITCZ) of weather and climate.",
-                        "Spatiotemporal Patterns & Change: Examines regional rainfall/temperature distributions, causes of climate change, and adaptation mechanisms."
-                    ]
-                },
-                {
-                    "chapter": 6,
-                    "title": "Soils, Natural Vegetation and Wildlife Resources of Ethiopia and the Horn",
-                    "topics": [
-                        "Soil & Vegetation: Identifies major soil types, degradation factors, erosion control, and natural vegetation zones.",
-                        "Wildlife: Covers endemic wildlife species, conservation areas, and protection challenges."
-                    ]
-                },
-                {
-                    "chapter": 7,
-                    "title": "Population of Ethiopia and the Horn",
-                    "topics": [
-                        "Demographic Dynamics: Analyzes data sources, population growth, fertility, mortality, and migration.",
-                        "Socio-Cultural Aspects: Examines population distribution, settlement patterns, language families, education, and health."
-                    ]
-                },
-                {
-                    "chapter": 8,
-                    "title": "Economic Activities in Ethiopia",
-                    "topics": [
-                        "Sectors: Evaluates primary activities (agriculture, forestry, fishery, mining), manufacturing industries, and service sectors (transportation, communication, and tourism)."
-                    ]
-                }
-            ]
+          "chapter": 3,
+          "title": "The Topography of Ethiopia and the Horn",
+          "topics": [
+            "<b>Physiographic Divisions:</b> Breaks down major relief units into the Western Highlands/Lowlands, Southeastern Highlands/Lowlands, and the Rift Valley (Afar Triangle, Main Ethiopian Rift, Chew Bahir).\n👉 <font color=\"#00B0FF\">የኢትዮጵያን የመሬት አቀማመጥ በሶስት ዋና ዋና ክፍሎች ይከፍላል።</font>",
+            "<b>Socioeconomic Impacts:</b> Analyzes how topography influences agriculture, settlement patterns, transportation, and climate.\n👉 <font color=\"#00B0FF\">የመሬት አቀማመጥ በእርሻ፣ በህዝብ ሰፈራ እና በየብስ ትራንስፖርት ላይ የሚያሳድረውን ተጽዕኖ ይተነትናል።</font>"
+          ]
         },
         {
-            "section_number": 4,
-            "title": "ለተጨማሪ ስኬት (Beautiful Additions for Success)",
-            "content": "ይህንን ኮርስ በተሳካ ሁኔታ ለማጠናቀቅ፣ ትምህርቱን ከእለት ተእለት አካባቢያችሁ እና ከሀገራችን ነባራዊ ሁኔታ ጋር እያገናዘባችሁ መማር አለባችሁ። ጠንካራ መሰረት ያለው አዲስ የሶፍትዌር ፕሮግራም ከስህተቶች የጸዳ (Bug-free) እንደሚሆነው ሁሉ፣ የእናንተም የካምፓስ ጉዞ ዛሬ በምታደርጉት ጠንካራ ዝግጅት፣ የጥናት ዲዛይን እና ግልጽ በሆነ ራዕይ የተቃኘ ይሁን። ቀጣይ ቻፕተር_1 የዚህን ኮርስ ትምህርት በይፋ እንጀምራለን እስከዚያው ድረስ ሰላማችሁ ይብዛልኝ 🙋‍♀️!መልካም እና ስኬታማ የዩኒቨርሲቲ ዘመን ይሁንላችሁ 🎓!ለስኬት በአብሮነት ወደፊት!🏃‍♀️🏃‍♂️🏃‍♂️🏃‍♀️ "
+          "chapter": 4,
+          "title": "Drainage Systems and Water Resource of Ethiopia and the Horn",
+          "topics": [
+            "<b>Drainage Systems:</b> Categorizes river basins into Western, Southeastern, and Rift Valley drainage systems.\n👉 <font color=\"#00B0FF\">የወንዝ ተፋሰሶችን በሶስት ዋና ዋና የፍሳሽ ስርዓቶች ይከፍላል።</font>",
+            "<b>Water Resources:</b> Explores characteristics of major trans-boundary rivers, lakes, and their potential for hydroelectric power and irrigation development.\n👉 <font color=\"#00B0FF\">የወሰን ተሻጋሪ ወንዞች፣ ሐይቆች እና የኤሌክትሪክና መስኖ ልማት አቅምን ያጠናል።</font>"
+          ]
+        },
+        {
+          "chapter": 5,
+          "title": "The Climate of Ethiopia and the Horn",
+          "topics": [
+            "<b>Weather & Climate:</b> Differentiates elements (temperature, precipitation, winds) and controls (latitude, altitude, ITCZ) of weather and climate.\n👉 <font color=\"#00B0FF\">የአየር ጠባይ እና አየር ንብረት উপাদানዎችን እና ተቆጣጣሪዎችን ይለያል።</font>",
+            "<b>Spatiotemporal Patterns & Change:</b> Examines regional rainfall/temperature distributions, causes of climate change, and adaptation mechanisms.\n👉 <font color=\"#00B0FF\">የዝናብና የሙቀት ስርጭት፣ የአየር ንብረት ለውጥ መንስኤዎችን እና የመላመድ ዘዴዎችን ይመረምራል።</font>"
+          ]
+        },
+        {
+          "chapter": 6,
+          "title": "Soils, Natural Vegetation and Wildlife Resources of Ethiopia and the Horn",
+          "topics": [
+            "<b>Soil & Vegetation:</b> Identifies major soil types, degradation factors, erosion control, and natural vegetation zones.\n👉 <font color=\"#00B0FF\">የአፈር አይነቶችን፣ የአፈር መሸርሸርን እና የተፈጥሮ እፅዋት ዞኖችን ይለያል።</font>",
+            "<b>Wildlife:</b> Covers endemic wildlife species, conservation areas, and protection challenges.\n👉 <font color=\"#00B0FF\">ሀገር በቀል የዱር እንስሳትን፣ የጥበቃ ቦታዎችን እና የተጋረጡ ተግዳሮቶችን ያብራራል።</font>"
+          ]
+        },
+        {
+          "chapter": 7,
+          "title": "Population of Ethiopia and the Horn",
+          "topics": [
+            "<b>Demographic Dynamics:</b> Analyzes data sources, population growth, fertility, mortality, and migration.\n👉 <font color=\"#00B0FF\">የህዝብ ቁጥር እድገት፣ የወልድና የሞት መጠን እንዲሁም ፍልሰትን ይተነትናል።</font>",
+            "<b>Socio-Cultural Aspects:</b> Examines population distribution, settlement patterns, language families, education, and health.\n👉 <font color=\"#00B0FF\">የህዝብ ስርጭት፣ የቋንቋ ቤተሰቦችን፣ የትምህርትና ጤና ሁኔታዎችን ይመረምራል።</font>"
+          ]
+        },
+        {
+          "chapter": 8,
+          "title": "Economic Activities in Ethiopia",
+          "topics": [
+            "<b>Sectors:</b> Evaluates primary activities (agriculture, forestry, fishery, mining), manufacturing industries, and service sectors (transportation, communication, and tourism).\n👉 <font color=\"#00B0FF\">የኢኮኖሚ ዘርፎችን (እርሻ፣ ማኑፋክቸሪንግ፣ አገልግሎት እና ቱሪዝም) ይገመግማል።</font>"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "section_number": 4,
+      "title": "ለተጨማሪ ስኬት (Beautiful Additions for Success)",
+      "content": "ይህንን ኮርስ በተሳካ ሁኔታ ለማጠናቀቅ፣ ትምህርቱን ከእለት ተእለት አካባቢያችሁ እና ከሀገራችን ነባራዊ ሁኔታ ጋር እያገናዘባችሁ መማር አለባችሁ። ጠንካራ መሰረት ያለው አዲስ የሶፍትዌር ፕሮግራም ከስህተቶች የጸዳ (Bug-free) እንደሚሆነው ሁሉ፣ የእናንተም የካምፓስ ጉዞ ዛሬ በምታደርጉት ጠንካራ ዝግጅት፣ የጥናት ዲዛይን እና ግልጽ በሆነ ራዕይ የተቃኘ ይሁን። ቀጣይ ቻፕተር_1 የዚህን ኮርስ ትምህርት በይፋ እንጀምራለን እስከዚያው ድረስ ሰላማችሁ ይብዛልኝ 🙋‍♀️!መልካም እና ስኬታማ የዩኒቨርሲቲ ዘመን ይሁንላችሁ 🎓!ለስኬት በአብሮነት ወደፊት!🏃‍♀️🏃‍♂️🏃‍♂️🏃‍♀️"
+    }
+  ]
 }
