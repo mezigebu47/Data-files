@@ -1,20 +1,58 @@
-[
-  {
-    "title": "ምስል፣ ሰንጠረዥ እና ግራፍ መሞከሪያ",
-    "content": "ይህ ፋይል የተዘጋጀው 'EthioFresh' አፕ የተለያዩ ሚዲያዎችን (HTML) እንዴት እንደሚያነብ ቼክ ለማድረግ ነው።",
-    "sections": [
-      {
-        "title": "1. ምስል (Image) ማሳያ",
-        "content": "ከታች የሚታየው ምስል በትክክል መምጣት አለበት፦<br><br><img src='https://via.placeholder.com/400x200/10b981/ffffff?text=Test+Image' style='max-width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);' alt='Test Image'>"
-      },
-      {
-        "title": "2. ሰንጠረዥ (Table) ማሳያ",
-        "content": "የተማሪዎች ውጤት ዝርዝር ሰንጠረዥ፦<br><br><table style='width:100%; border-collapse: collapse; text-align: left;' border='1'><thead><tr style='background-color:#10b981; color:white;'><th style='padding:8px;'>ተ.ቁ</th><th style='padding:8px;'>ስም</th><th style='padding:8px;'>ውጤት</th></tr></thead><tbody><tr><td style='padding:8px; border:1px solid #ddd;'>1</td><td style='padding:8px; border:1px solid #ddd;'>አበበ</td><td style='padding:8px; border:1px solid #ddd;'>85</td></tr><tr><td style='padding:8px; border:1px solid #ddd;'>2</td><td style='padding:8px; border:1px solid #ddd;'>ከበደ</td><td style='padding:8px; border:1px solid #ddd;'>92</td></tr></tbody></table>"
-      },
-      {
-        "title": "3. ግራፍ (Graph) ማሳያ",
-        "content": "የማቲማቲክስ ወይም ፊዚክስ ግራፎች በአብዛኛው እንደ ምስል (Image URL) ነው የሚገቡት፦<br><br><img src='https://via.placeholder.com/400x250/3b82f6/ffffff?text=Graph+Placeholder' style='max-width:100%; border-radius:10px;' alt='Graph'>"
-      }
-    ]
-  }
-]
+// ==========================================
+// 1. Firebase Config (ስማርት ራሱን የሚያስተካክል ቼክ)
+// ==========================================
+window.db = {
+    collection: function(path) {
+        if (typeof firebase !== 'undefined') {
+            const firebaseConfig = {
+                apiKey: "AIzaSyBkQff8cvj1ij7sW-XgMGNzCQ0IwbqWYsg",
+                authDomain: "ethiofresh-87bd8.firebaseapp.com",
+                projectId: "ethiofresh-87bd8",
+                storageBucket: "ethiofresh-87bd8.firebasestorage.app",
+                messagingSenderId: "275424742379",
+                appId: "1:275424742379:web:149f0b40a1485f4266e7ae"
+            };
+            
+            if (!firebase.apps.length) {
+                firebase.initializeApp(firebaseConfig);
+            }
+            // ፋየርቤዝ ሲገኝ በቀጥታ ትክክለኛውን የfirestore ኮልሽን ይመልሳል
+            return firebase.firestore().collection(path);
+        } else {
+            console.log("Firebase is still loading or offline.");
+            // ፋየርቤዝ ገና ካልመጣ አፑ እንዳይዘጋ (Crash እንዳያደርግ) ባዶ ነገር ይመልሳል
+            return {
+                where: function() { return this; },
+                orderBy: function() { return this; },
+                limit: function() { return this; },
+                doc: function() { return this; },
+                get: function() { 
+                    return Promise.resolve({ empty: true, docs: [], forEach: function(){} }); 
+                }
+            };
+        }
+    }
+};
+
+// ==========================================
+// 2. ግሎባል ቫሪያብሎች
+// ==========================================
+let vData = [];
+let vCurrentLink = "";
+let vCurrentTitle = "";
+let currentExamCategory = "Mid"; 
+
+// ==========================================
+// 3. የፍሬሽማን ኮርሶች ዝርዝር 
+// ==========================================
+const freshCourses = [
+    "Communicative English Skills I", "Communicative English Skills II",
+    "General Physics", "General Chemistry", "General Biology",
+    "General Mathematics", "Entrepreneurship",
+    "Logic and Critical Thinking", "General Psychology",
+    "Introduction to Emerging Technology", "Geography of Ethiopia and the Horn",
+    "History of Ethiopia and the Horn", "Social Anthropology",
+    "Global Trends", "Inclusiveness", "Moral and Civic Education",
+    "Introduction to Economics",
+    "Computer Programming", "Applied Mathematics I", "Organic Chemistry"
+];
