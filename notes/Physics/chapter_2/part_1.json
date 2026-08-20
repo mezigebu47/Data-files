@@ -1,0 +1,20 @@
+[
+  {
+    "title": "ምስል፣ ሰንጠረዥ እና ግራፍ መሞከሪያ",
+    "content": "ይህ ፋይል የተዘጋጀው 'EthioFresh' አፕ የተለያዩ ሚዲያዎችን (HTML) እንዴት እንደሚያነብ ቼክ ለማድረግ ነው።",
+    "sections": [
+      {
+        "title": "1. ምስል (Image) ማሳያ",
+        "content": "ከታች የሚታየው ምስል በትክክል መምጣት አለበት፦<br><br><img src='https://via.placeholder.com/400x200/10b981/ffffff?text=Test+Image' style='max-width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);' alt='Test Image'>"
+      },
+      {
+        "title": "2. ሰንጠረዥ (Table) ማሳያ",
+        "content": "የተማሪዎች ውጤት ዝርዝር ሰንጠረዥ፦<br><br><table style='width:100%; border-collapse: collapse; text-align: left;' border='1'><thead><tr style='background-color:#10b981; color:white;'><th style='padding:8px;'>ተ.ቁ</th><th style='padding:8px;'>ስም</th><th style='padding:8px;'>ውጤት</th></tr></thead><tbody><tr><td style='padding:8px; border:1px solid #ddd;'>1</td><td style='padding:8px; border:1px solid #ddd;'>አበበ</td><td style='padding:8px; border:1px solid #ddd;'>85</td></tr><tr><td style='padding:8px; border:1px solid #ddd;'>2</td><td style='padding:8px; border:1px solid #ddd;'>ከበደ</td><td style='padding:8px; border:1px solid #ddd;'>92</td></tr></tbody></table>"
+      },
+      {
+        "title": "3. ግራፍ (Graph) ማሳያ",
+        "content": "የማቲማቲክስ ወይም ፊዚክስ ግራፎች በአብዛኛው እንደ ምስል (Image URL) ነው የሚገቡት፦<br><br><img src='https://via.placeholder.com/400x250/3b82f6/ffffff?text=Graph+Placeholder' style='max-width:100%; border-radius:10px;' alt='Graph'>"
+      }
+    ]
+  }
+]
