@@ -1,58 +1,13 @@
-// ==========================================
-// 1. Firebase Config (ስማርት ራሱን የሚያስተካክል ቼክ)
-// ==========================================
-window.db = {
-    collection: function(path) {
-        if (typeof firebase !== 'undefined') {
-            const firebaseConfig = {
-                apiKey: "AIzaSyBkQff8cvj1ij7sW-XgMGNzCQ0IwbqWYsg",
-                authDomain: "ethiofresh-87bd8.firebaseapp.com",
-                projectId: "ethiofresh-87bd8",
-                storageBucket: "ethiofresh-87bd8.firebasestorage.app",
-                messagingSenderId: "275424742379",
-                appId: "1:275424742379:web:149f0b40a1485f4266e7ae"
-            };
-            
-            if (!firebase.apps.length) {
-                firebase.initializeApp(firebaseConfig);
-            }
-            // ፋየርቤዝ ሲገኝ በቀጥታ ትክክለኛውን የfirestore ኮልሽን ይመልሳል
-            return firebase.firestore().collection(path);
-        } else {
-            console.log("Firebase is still loading or offline.");
-            // ፋየርቤዝ ገና ካልመጣ አፑ እንዳይዘጋ (Crash እንዳያደርግ) ባዶ ነገር ይመልሳል
-            return {
-                where: function() { return this; },
-                orderBy: function() { return this; },
-                limit: function() { return this; },
-                doc: function() { return this; },
-                get: function() { 
-                    return Promise.resolve({ empty: true, docs: [], forEach: function(){} }); 
-                }
-            };
-        }
-    }
-};
-
-// ==========================================
-// 2. ግሎባል ቫሪያብሎች
-// ==========================================
-let vData = [];
-let vCurrentLink = "";
-let vCurrentTitle = "";
-let currentExamCategory = "Mid"; 
-
-// ==========================================
-// 3. የፍሬሽማን ኮርሶች ዝርዝር 
-// ==========================================
-const freshCourses = [
-    "Communicative English Skills I", "Communicative English Skills II",
-    "General Physics", "General Chemistry", "General Biology",
-    "General Mathematics", "Entrepreneurship",
-    "Logic and Critical Thinking", "General Psychology",
-    "Introduction to Emerging Technology", "Geography of Ethiopia and the Horn",
-    "History of Ethiopia and the Horn", "Social Anthropology",
-    "Global Trends", "Inclusiveness", "Moral and Civic Education",
-    "Introduction to Economics",
-    "Computer Programming", "Applied Mathematics I", "Organic Chemistry"
-];
+[
+  {
+    "question": "1. ከታች ባለው ሰንጠረዥ መሰረት ትልቁን ውጤት ያመጣው ማነው?<br><br><table style='width:100%; border-collapse: collapse; text-align: left; margin-top:10px;' border='1'><tr><th style='padding:8px; background-color:#f3f4f6;'>ስም</th><th style='padding:8px; background-color:#f3f4f6;'>ውጤት</th></tr><tr><td style='padding:8px; border:1px solid #e5e7eb;'>ተማሪ A</td><td style='padding:8px; border:1px solid #e5e7eb;'>75</td></tr><tr><td style='padding:8px; border:1px solid #e5e7eb;'>ተማሪ B</td><td style='padding:8px; border:1px solid #e5e7eb;'>95</td></tr></table>",
+    "options": [
+      "A. ተማሪ A",
+      "B. ተማሪ B",
+      "C. እኩል ናቸው",
+      "D. መረጃው በቂ አይደለም"
+    ],
+    "answer": "B. ተማሪ B",
+    "explanation": "በሰንጠረዡ ላይ እንደምታየው ተማሪ B 95 አምጥቷል። ይህ ደግሞ ከ 75 ይበልጣል።<br><br><img src='https://via.placeholder.com/300x150/f59e0b/ffffff?text=Correct+Answer!' style='max-width:100%; border-radius:8px;'>"
+  }
+]
