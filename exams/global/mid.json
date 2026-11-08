@@ -1,0 +1,222 @@
+[
+  {
+    "question": "1. Unlike liberals, realists argue that periods of peace are simply times when states are preparing for future conflict.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Realists see peace as a pause in which states prepare for future conflict (ሪያሊስቶች ሰላም ለወደፊት ጦርነት ማዘጋጃ ጊዜ ነው ይላሉ።)."
+  },
+  {
+    "question": "2. Unlike a multi-polar system, a bi-polar system is vulnerable for a zero-sum game politics.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. The module says a bipolar system is vulnerable to zero-sum politics because one superpower's gain is the other's loss (ባይፖላር ስርዓት ለዜሮ-ድምር ፖለቲካ ተጋላጭ ነው።)."
+  },
+  {
+    "question": "3. For group level of analysis, the structure of the international system shapes states behavior.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The effect of the international system's structure on state behaviour is the system level of analysis; the group level looks at groups and their relation to states (የስርዓት ደረጃ (system level) ትንተና ነው፤ የቡድን ደረጃ አይደለም።)."
+  },
+  {
+    "question": "4. Critical approaches refer to a wide spectrum of theories that have been established in response to mainstream approaches in the field, mainly liberalism and realism.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Critical theories emerged as responses to the mainstream theories, mainly liberalism and realism (ወሳኝ (critical) ንድፈ ሃሳቦች ለዋና ዋና ንድፈ ሃሳቦች ምላሽ ናቸው።)."
+  },
+  {
+    "question": "5. Woodrow Wilson's call to create a general association of nations, which became the League of Nations, pertains to the theory of realism.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The League of Nations is the culmination of the liberal ideal of international relations, not realism (የመንግስታት ማህበር የሊበራሊዝም ሃሳብ ነው።)."
+  },
+  {
+    "question": "6. Post-colonialism focuses on the inequality between nations or regions which are the effects of colonialism.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Post-colonialism studies the inequality between nations and regions that resulted from colonialism (ድህረ-ቅኝ ግዛት ከቅኝ ግዛት የመጣውን አለመመጣጠን ያጠናል።)."
+  },
+  {
+    "question": "1. The subject of International Relations is the study of who gets what, when, and how in matters external to states or matters crossing national boundary. The word which is bold and italic refers to:",
+    "options": {
+      "A": "Actors which are involved in the international system.",
+      "B": "The instruments actors use to achieve goals designed.",
+      "C": "The goals which are planned to be accomplished.",
+      "D": "The duration to implement the goals which are planned."
+    },
+    "correctAnswer": "A",
+    "explanation": "A is the best answer, but this is UNVERIFIED: the exam text does not show which word is bold and italic, and the module does not contain this definition in the form given. Please check the original paper (ይህ ጥያቄ በጽሁፍ ግልጽ አይደለም፤ መምህሩን አረጋግጡ።)."
+  },
+  {
+    "question": "2. Who wrote 'The History of the Peloponnesian War (431 BC)' – regarded by many as the formative paradigmatic text of the realist theory of international relations?",
+    "options": {
+      "A": "Aristotle",
+      "B": "Thucydides",
+      "C": "Machiavelli",
+      "D": "Hobbes"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Thucydides' History of the Peloponnesian War is seen as the foundational text of realism (የፔሎፖኔሲያን ጦርነት ታሪክ በቱሲዲደስ ተጽፏል፤ ለሪያሊዝም መሰረት ነው።)."
+  },
+  {
+    "question": "3. In the scenario that North Korea has the ambition to have nuclear weapon, if someone analyzes it by relating with the personality of the North Korean leader, to which level of analysis is it associated?",
+    "options": {
+      "A": "State level analysis",
+      "B": "System level analysis",
+      "C": "Individual level analysis",
+      "D": "Group level analysis"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Analysing a decision through the leader's personality is individual-level analysis (የመሪውን ስብዕና መሰረት ያደረገ ትንተና የግለሰብ ደረጃ (individual level) ነው።)."
+  },
+  {
+    "question": "4. When a relatively weaker states form alliance to counteract the influence of a very powerful state the situation is known as",
+    "options": {
+      "A": "Politics among nations",
+      "B": "Multipolar system",
+      "C": "Balance of power",
+      "D": "Collective security"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Weaker states allying against a stronger one is the balance of power (ደካማ ሀገራት ጠንካራን ለመቋቋም ህብረት ሲፈጥሩ የሃይል ሚዛን ነው።)."
+  },
+  {
+    "question": "5. The constructivist theory of international relations stipulates",
+    "options": {
+      "A": "States are rational actors that primarily seek cooperation over competition.",
+      "B": "The structure of the international system is anarchic in nature.",
+      "C": "Norms and perceptions shape how states behave and interpret events.",
+      "D": "Economic and strategic interests primarily drive interstate political interactions."
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Constructivism emphasises that norms, ideas and perceptions shape state behaviour (ኮንስትራክቲቪዝም ደንቦችና አመለካከቶች የሀገራትን ባህሪ ይቀርፃሉ ይላል።)."
+  },
+  {
+    "question": "6. One of the following is correct about the difference between international politics and domestic politics.",
+    "options": {
+      "A": "Domestic politics rests on competing legal systems, and there is no common enforcement.",
+      "B": "International law is generally obeyed, and if not, there are enforceable sanctions.",
+      "C": "In international politics people disagree about what seems just and legitimate.",
+      "D": "In international politics government has a monopoly on the legitimate use of force."
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Internationally, there is no common agreement on what is just and legitimate, unlike domestic politics. The other options reverse the facts (በአለም አቀፍ ፖለቲካ ስለ ፍትሃዊነትና ህጋዊነት የጋራ ስምምነት የለም።)."
+  },
+  {
+    "question": "7. Which theory of IR is a middle ground between the mainstream theories and critical theories?",
+    "options": {
+      "A": "Marxism",
+      "B": "Structuralism",
+      "C": "Constructivism",
+      "D": "Post-colonialism"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. The module describes constructivism as a middle ground between mainstream and critical theories (ኮንስትራክቲቪዝም በዋና እና በወሳኝ ንድፈ ሃሳቦች መካከል ያለ መካከለኛ ነው።)."
+  },
+  {
+    "question": "8. The period from 1947–1991 was characterized by:",
+    "options": {
+      "A": "Bipolarity",
+      "B": "Multipolarity",
+      "C": "Unipolarity",
+      "D": "Tripolarity"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. The Cold War period from 1947 to 1991 was bipolar (ከ1947–1991 የነበረው የቀዝቃዛ ጦርነት ባይፖላር ነበር።)."
+  },
+  {
+    "question": "9. As domination is to realism ____________ is to liberalism.",
+    "options": {
+      "A": "Dependency",
+      "B": "Exploitation",
+      "C": "Marginalization",
+      "D": "Cooperator"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is the intended answer. Realism is built on domination and power, while liberalism is built on cooperation. The module does not use the word 'cooperator' directly, so the answer is an inference (ሪያሊዝም በበላይነት ላይ ሲመሰረት ሊበራሊዝም በትብብር ላይ ይመሰረታል።)."
+  },
+  {
+    "question": "10. Which non-state actor refers to global firms, business institutions, often headquartered in one state but operational in many countries?",
+    "options": {
+      "A": "International Non-Governmental Organizations",
+      "B": "International Governmental Organizations",
+      "C": "Multinational Corporations",
+      "D": "None"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Multinational corporations are headquartered in one state and operate in many (ሁለገብ ኩባንያዎች ዋና መስሪያ ቤታቸው በአንድ ሀገር ሲሆን በብዙ ሀገራት ይሰራሉ።)."
+  },
+  {
+    "question": "11. All are the pillars of liberalism, except:",
+    "options": {
+      "A": "Aristocracy",
+      "B": "Democracy",
+      "C": "Free trade",
+      "D": "Collective security"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct as the exception. The module lists democracy, free trade and collective security as liberal pillars, with aristocracy as the opposite (አሪስቶክራሲ የሊበራሊዝም ምሰሶ አይደለም፤ ዲሞክራሲ ይሆናል።)."
+  },
+  {
+    "question": "12. The fact that there is no institution with the right to enforce common rules in the international system is",
+    "options": {
+      "A": "Anarchy",
+      "B": "Power",
+      "C": "Sovereignty",
+      "D": "Authority"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. The absence of a central authority to enforce rules is anarchy (በአለም አቀፍ ስርዓት ህግን የሚያስፈጽም ማዕከላዊ ስልጣን አለመኖር አናርኪ ነው።)."
+  },
+  {
+    "question": "13. In E.H Carr's fact-value distinction, value refers to ____________",
+    "options": {
+      "A": "The wishful things of liberal internationalism",
+      "B": "The pragmatic interests of states",
+      "C": "It is an answer to 'what is'",
+      "D": "All"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Carr criticised the values of liberal internationalism as wishful thinking, while facts answer 'what is' (ካር ዋጋ (value) የሊበራል ኢንተርናሽናሊዝም ምኞት ነው ብሏል።)."
+  },
+  {
+    "question": "14. The scenario that the US pressures a certain given country to accept something denotes ____________",
+    "options": {
+      "A": "Sovereignty",
+      "B": "Power",
+      "C": "Authority",
+      "D": "Anarchy"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Pressuring another state to accept something is an exercise of power (ሀገርን ለማስገደድ መጫን የሃይል አጠቃቀም ነው።)."
+  },
+  {
+    "question": "1. Which IR theory focuses on the structure of dependency and exploitation caused by the international division of labor?",
+    "options": {},
+    "correctAnswer": "Structuralism / Marxism (dependency theory)",
+    "explanation": "The module says structuralism and Marxism focus on the structure of dependency and exploitation caused by the international division of labour; dependency theory is the main example (ስትራክቹራሊዝም እና ማርክሲዝም በዓለም አቀፍ የስራ ክፍፍል ምክንያት በሚመጣ ጥገኝነትና ብዝበዛ ላይ ያተኩራሉ።)."
+  },
+  {
+    "question": "2. The autonomy of a state in foreign policy and independence/freedom in its domestic affairs is called ____________",
+    "options": {},
+    "correctAnswer": "Sovereignty",
+    "explanation": "Sovereignty means a state's independence and freedom in its foreign and domestic affairs (ሉዓላዊነት የሀገርን ነጻነትና የውሳኔ ስልጣን ያመለክታል።)."
+  }
+]
