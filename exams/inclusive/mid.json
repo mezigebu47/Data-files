@@ -1,0 +1,224 @@
+[
+  {
+    "question": "1. Learning disability includes children who have learning problems which are primarily the result of visual and hearing impairment.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The module says learning disabilities do not include learning problems that are primarily the result of visual, hearing or motor disabilities, intellectual disability, emotional disturbance or environmental disadvantage (የመማር እክል በዋናነት በእይታ ወይም በመስማት ችግር የተፈጠረ ከመማር እክል ውስጥ አይካተትም።)."
+  },
+  {
+    "question": "2. Deficit in adaptive behavior or skill refers to failure to meet standards of personal independence and social responsibility expected of the individual's age and cultural group.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Adaptive behaviour is the set of conceptual, social and practical skills expected for one's age and culture (የማላመድ ባህሪ ከእድሜና ከባህል ጋር የሚጠበቀውን ክህሎት ይመለከታል።)."
+  },
+  {
+    "question": "3. Children with certain forms of developmental deviations are those who differ from the average child in many characteristics.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Developmental deviation means differing from the average child in many characteristics (የእድገት ልዩነት (developmental deviation) ማለት ከአማካይ ልጅ በብዙ ባህሪያት መለየት ነው።)."
+  },
+  {
+    "question": "4. Visual impairment that affects the central vision of an individual is termed as low vision.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. The module says low vision may affect only central vision, meaning the area directly in front of the eyes (ዝቅተኛ እይታ (low vision) የማዕከላዊ እይታን ብቻ ሊጎዳ ይችላል።)."
+  },
+  {
+    "question": "5. The type of learning disability that affects the person's reading and associated language ability is dysgraphia.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Reading and language-based difficulties are dyslexia. Dysgraphia affects handwriting (የማንበብ ችግር ዲስሌክሲያ ነው፤ ዲስግራፊያ የእጅ ጽሑፍን ይጎዳል።)."
+  },
+  {
+    "question": "6. Musculoskeletal-related problems are those difficulties arising in the muscles, joints, fluids and skeleton.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Musculoskeletal problems affect the muscles, joints, bones and related structures (የጡንቻና የአጥንት መገጣጠሚያ ችግሮች ናቸው።)."
+  },
+  {
+    "question": "7. The individual may say 'bat' instead of 'cat' (Matching A → B)",
+    "options": {
+      "A": "Phonological",
+      "B": "Morphological",
+      "C": "Semantic disorder",
+      "D": "Articulation disorder",
+      "E": "Syntactic deficits",
+      "F": "Fluency error"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Replacing one speech sound with another (b for c) is a phonological disorder (ድምጽን መተካት የፎነሎጂካል ችግር ነው።)."
+  },
+  {
+    "question": "8. People construct 'unpossible' instead of 'impossible' (Matching A → B)",
+    "options": {
+      "A": "Phonological",
+      "B": "Morphological",
+      "C": "Semantic disorder",
+      "D": "Articulation disorder",
+      "E": "Syntactic deficits",
+      "F": "Fluency error"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Adding the wrong word-part (un-) is a morphological error (የቃል ክፍል (morpheme) ስህተት ነው።)."
+  },
+  {
+    "question": "9. The banana eats the child (Matching A → B)",
+    "options": {
+      "A": "Phonological",
+      "B": "Morphological",
+      "C": "Semantic disorder",
+      "D": "Articulation disorder",
+      "E": "Syntactic deficits",
+      "F": "Fluency error"
+    },
+    "correctAnswer": "E",
+    "explanation": "E is correct. The sentence structure is grammatically well formed but the word order gives the wrong meaning, which is a syntactic deficit (የዓረፍተ ነገር አወቃቀር ችግር ነው።)."
+  },
+  {
+    "question": "10. Students could not understand the meaning of 'umbrella' (Matching A → B)",
+    "options": {
+      "A": "Phonological",
+      "B": "Morphological",
+      "C": "Semantic disorder",
+      "D": "Articulation disorder",
+      "E": "Syntactic deficits",
+      "F": "Fluency error"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Not understanding word meaning is a semantic disorder (የቃል ትርጉም አለመረዳት የሴማንቲክ ችግር ነው።)."
+  },
+  {
+    "question": "11. A developmental delay significantly affecting verbal and nonverbal communication refers to:",
+    "options": {
+      "A": "Gifted and talented",
+      "B": "Hearing impairment",
+      "C": "Autism",
+      "D": "Learning disability"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. The module defines autism as a developmental disability significantly affecting verbal and nonverbal communication and social interaction (ኦቲዝም በቃልም ሆነ በቃል-አልባ ግንኙነት ላይ ተጽእኖ የሚያደርግ የእድገት እክል ነው።)."
+  },
+  {
+    "question": "12. When the pancreas does not produce enough insulin, the problem is more likely to be categorized under:",
+    "options": {
+      "A": "Hemophilia",
+      "B": "Amputation",
+      "C": "Diabetes",
+      "D": "Leukemia"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Insufficient insulin from the pancreas is diabetes (ፓንክሪያስ በቂ ኢንሱሊን ካላመረተ ዳያቤተስ ነው።)."
+  },
+  {
+    "question": "13. A type of speech disorder characterized by difficulties with the rhythm and timing of speech refers to:",
+    "options": {
+      "A": "Fluency disorders",
+      "B": "Articulation disorders",
+      "C": "Voice disorders",
+      "D": "Phonological disorder"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Rhythm and timing problems are fluency disorders (የንግግር ምት ችግር የፍሉዌንሲ ችግር ነው።)."
+  },
+  {
+    "question": "15. A type of disability characterized by significant limitations in both expression and comprehension of the message is:",
+    "options": {
+      "A": "Intellectual disability",
+      "B": "Emotional difficulty",
+      "C": "Communication disorder",
+      "D": "Autism"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Limits in expressing and understanding messages are a communication disorder (የመልእክት አገላለጽና መረዳት ገደብ የግንኙነት እክል (communication disorder) ነው።)."
+  },
+  {
+    "question": "16. Large amounts of white blood cells are produced in the body, and this condition leads to poisoning. This kind of problem is categorized under:",
+    "options": {
+      "A": "Asthma",
+      "B": "Diabetes",
+      "C": "Leukemia",
+      "D": "Sickle-cell anemia"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Overproduction of white blood cells is leukemia (ነጭ የደም ሴሎች ከመጠን በላይ መብዛት ሉኪሚያ ነው።)."
+  },
+  {
+    "question": "17. Which one is an internalizing behavioral disorder?",
+    "options": {
+      "A": "Anxiety",
+      "B": "Disobedient",
+      "C": "Jealous",
+      "D": "Disruptiveness"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Anxiety is internalizing, directed inward; the others are externalizing (ጭንቀት ወደ ውስጥ የሚመለከት (internalizing) ባህሪ ነው።)."
+  },
+  {
+    "question": "18. Of the following orthopedic impairments, which one is a neurological system dysfunction?",
+    "options": {
+      "A": "Amputation",
+      "B": "Cerebral palsy",
+      "C": "Arthritis",
+      "D": "Muscular dystrophy"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Cerebral palsy is a neurological disorder (ሴሬብራል ፓልሲ የነርቭ ስርዓት ችግር ነው።)."
+  },
+  {
+    "question": "19. Inability to participate in different societal activities due to loss of parts of a body is:",
+    "options": {
+      "A": "Impairment",
+      "B": "Disability",
+      "C": "Handicap",
+      "D": "Deinstitutionalized"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. The loss of body parts is the impairment, and the resulting social disadvantage is the handicap. The module does not define handicap separately, so this uses the standard definition (ሃንዲካፕ የማህበራዊ ተሳትፎ ችግርን ይመለከታል፤ ሞጁሉ በተለየ ሁኔታ አልገለጸውም።)."
+  },
+  {
+    "question": "20. A rapid-fire repetition of consonant or vowel sounds at the beginning of speech is:",
+    "options": {
+      "A": "Cluttering",
+      "B": "Stuttering",
+      "C": "Omission",
+      "D": "Distortion"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. The module defines stuttering as rapid-fire repetitions of consonant or vowel sounds at the beginning of words; cluttering is excessively fast, jerky speech (ስቴመሪንግ የመጀመሪያ ድምጾች ፈጣን ድግግሞሽ ነው፤ ክላተሪንግ ግን ፈጣንና ያልተስተካከለ ንግግር ነው።)."
+  },
+  {
+    "question": "21. Which one of the following is categorized under sensory impairment?",
+    "options": {
+      "A": "Physical impairment",
+      "B": "Health impairment",
+      "C": "Hearing impairment",
+      "D": "Autism"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Hearing impairment is a sensory impairment (የመስማት ችግር የስሜት ህዋስ (sensory) እክል ነው።)."
+  },
+  {
+    "question": "22. Write at least four characteristics of intellectual limitation.",
+    "options": {},
+    "correctAnswer": "i. Sub-average intellectual functioning (learning, reasoning, problem solving; IQ around 70–75). ii. Significant limitations in two or more adaptive skill areas (conceptual, social and practical skills). iii. The condition originates before the age of 18. iv. Limits in everyday social and practical skills such as money, time, number concepts and self-direction.",
+    "explanation": "The module gives three criteria for intellectual disability: sub-average intellectual functioning, significant limitations in two or more adaptive skill areas, and onset before age 18 (የአእምሮ እክል ሶስት መስፈርቶች አሉት።)."
+  }
+]
