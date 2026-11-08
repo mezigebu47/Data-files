@@ -1,0 +1,231 @@
+[
+  {
+    "question": "1. Anthropologists accept and respect all ethnic groups' cultures, including harmful traditional practices.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Anthropologists respect cultures, but they do not accept harmful practices (አንትሮፖሎጂስቶች ባህልን ያከብራሉ፤ ጎጂ ልማዶችን ግን አይቀበሉም።)."
+  },
+  {
+    "question": "2. Acculturation is the process by which an individual learns the rules and values of one's culture.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. That describes enculturation; acculturation is cultural change through contact with another culture (ይህ ኢንካልቸሬሽን ነው፤ አካልቸሬሽን ግን በባህል ንክኪ የሚመጣ ለውጥ ነው።)."
+  },
+  {
+    "question": "3. The focus of anthropological study is mainly on a collective group rather than an individual.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Anthropology studies culture and societies as groups (አንትሮፖሎጂ በዋናነት የማህበረሰብን ባህል ያጠናል።)."
+  },
+  {
+    "question": "4. Cultural relativism asserts that the values of one culture should not be used as standards to evaluate other cultures.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Cultural relativism judges each culture by its own standards (ባህላዊ አንጻራዊነት የአንድን ባህል እሴት ለሌላ ባህል መለኪያ አያደርግም።)."
+  },
+  {
+    "question": "5. Values are a central aspect of the material culture of a society.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Values are non-material culture; material culture is physical objects (እሴቶች ቁሳዊ ያልሆነ ባህል ናቸው።)."
+  },
+  {
+    "question": "6. Limiting the scope of anthropology to the study of primitive societies is considered a right way to advance the discipline.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Anthropology covers all societies, and limiting it to 'primitive' societies is not a way to advance it (አንትሮፖሎጂ ሁሉንም ማህበረሰቦች ይመለከታል።)."
+  },
+  {
+    "question": "7. For the evolutionists, the cultural change of people is necessarily dependent on biological change.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Evolutionists explained cultural change as a separate process from biological change (ኢቮሉሽኒስቶች የባህል ለውጥን ከባዮሎጂ ለውጥ ለይተው ያዩታል።)."
+  },
+  {
+    "question": "8. All are features of ethnology in social anthropological studies, except:",
+    "options": {
+      "A": "Synthesizes ethnographic data",
+      "B": "Cross-cultural study",
+      "C": "Comparative study",
+      "D": "Extended field work"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is the exception. Extended fieldwork is a feature of ethnography, not ethnology (ረጅም የመስክ ስራ የኢትኖግራፊ (ethnography) ባህሪ ነው።)."
+  },
+  {
+    "question": "9. The spread of cultural traits from one cultural group to another cultural group is known as:",
+    "options": {
+      "A": "Enculturation",
+      "B": "Socialization",
+      "C": "Acculturation",
+      "D": "Diffusion"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. Diffusion is the spread of cultural traits between groups (ዲፊዥን የባህል ባህሪያት ከቡድን ወደ ቡድን መሰራጨት ነው።)."
+  },
+  {
+    "question": "10. The practice of attaching a circular piece of pottery material by incising the lower edge of the lip among Mursi girls can be leveled as:",
+    "options": {
+      "A": "Cultural universality",
+      "B": "Cultural generality",
+      "C": "Cultural unity",
+      "D": "Cultural particularity"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. A practice found only among one group, such as the Mursi lip plate, is cultural particularity (በአንድ ህዝብ ብቻ የሚገኝ ልማድ ባህላዊ ልዩነት (particularity) ነው።)."
+  },
+  {
+    "question": "11. Which one is a good example of culture generality?",
+    "options": {
+      "A": "Farming",
+      "B": "Incest taboo",
+      "C": "Long-term infant dependency",
+      "D": "Beza Kulu festival of Lalibela"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Generality means traits found in many but not all societies, such as farming (ብዙ ማህበረሰቦች ግን ሁሉም ያልሆኑት ባህሪ ጀነራሊቲ ነው።)."
+  },
+  {
+    "question": "12. Which subfield of archaeology is essential for reconstructing the culture of people documented in texts?",
+    "options": {
+      "A": "Historical archaeology",
+      "B": "Prehistoric archaeology",
+      "C": "Ethno-archaeology",
+      "D": "A and B"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Historical archaeology uses written texts together with material remains (ታሪካዊ አርኪኦሎጂ የጽሁፍ ምንጮችን ይጠቀማል።)."
+  },
+  {
+    "question": "13. Which type of diffusion describes the imposition of one culture's customs on another through subjugation?",
+    "options": {
+      "A": "Acculturation",
+      "B": "Direct diffusion",
+      "C": "Forced diffusion",
+      "D": "Indirect diffusion"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Forced diffusion is the imposition of culture through domination (በኃይል የሚጫን የባህል ስርጭት ፎርስድ ዲፊዥን ነው።)."
+  },
+  {
+    "question": "14. Among the following elements of culture, which one is odd?",
+    "options": {
+      "A": "Religion",
+      "B": "Beliefs",
+      "C": "Language",
+      "D": "Obelisk"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is the odd one out. Religion, beliefs and language are non-material, while an obelisk is a material object (ኦቤሊስክ ቁሳዊ ነገር ነው።)."
+  },
+  {
+    "question": "15. Which cultural feature relates to the constant change of culture as new ideas and techniques are introduced?",
+    "options": {
+      "A": "Culture is dynamic",
+      "B": "Culture is shared",
+      "C": "Culture is integrated",
+      "D": "Culture is symbolic"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Culture is dynamic because it changes as new ideas arrive (ባህል ተለዋዋጭ ነው።)."
+  },
+  {
+    "question": "16. Which of the following statements is NOT the main concern of paleoanthropology?",
+    "options": {
+      "A": "It uses a variety of scientific techniques to date, classify and compare fossil bones.",
+      "B": "It helps us understand what human beings share with other animals.",
+      "C": "It is used to examine the links between modern humans and their biological ancestors.",
+      "D": "It is the study of human evolution through analysis of fossils."
+    },
+    "correctAnswer": "B",
+    "explanation": "B is the statement that is NOT the main concern. Understanding what humans share with other animals is the concern of primatology or comparative biology (ሰው ከሌሎች እንስሳት ያለውን ተመሳሳይነት መረዳት የፓሌዮአንትሮፖሎጂ ዋና ጉዳይ አይደለም።)."
+  },
+  {
+    "question": "17. Which one of the following is not true about culture?",
+    "options": {
+      "A": "Every culture is dynamic.",
+      "B": "Culture shapes the way we see the world.",
+      "C": "Culture differentiates mankind from non-humans.",
+      "D": "Culture is genetically inherited."
+    },
+    "correctAnswer": "D",
+    "explanation": "D is not true. Culture is learned, not genetically inherited (ባህል በጄኔቲክ አይወረስም፤ የሚማር ነው።)."
+  },
+  {
+    "question": "18. Elias, an anthropologist at Bahir Dar University, specializes in linguistic anthropology, focusing on the Arabic language. He studies its sound system, grammar, and the meanings of words. What is the best area of specialization for his research?",
+    "options": {
+      "A": "Structural linguistics",
+      "B": "Historical linguistics",
+      "C": "Ethno-linguistics",
+      "D": "Socio-linguistics"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is the best answer. Studying a language's sound system, grammar and meanings as it is at present is structural (descriptive) linguistics (የቋንቋ ድምፅ፣ ሰዋሰውና ትርጉም በአሁኑ ጊዜ ማጥናት ስትራክቸራል ሊንጉስቲክስ ነው።)."
+  },
+  {
+    "question": "19. Which one is different from the others in terms of cultural universality?",
+    "options": {
+      "A": "Infant dependency",
+      "B": "Use of language",
+      "C": "Use of symbols",
+      "D": "Weeding ceremony"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is different. Infant dependency, language and symbols are universal, while a weeding ceremony is a particular custom (የሰርግ ዝግጅት ስነ-ስርዓት ልዩ ልማድ ነው።)."
+  },
+  {
+    "question": "20. Which one is not a unique feature of anthropology?",
+    "options": {
+      "A": "Qualitative research",
+      "B": "Etic perspective",
+      "C": "Broad scope",
+      "D": "Emic perspective"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is not unique. Qualitative research is used in many disciplines, whereas the etic and emic perspectives and holistic broad scope are features of anthropology (ኳሊቴቲቭ ጥናት በሌሎች ዘርፎችም ይሰራበታል።)."
+  },
+  {
+    "question": "21. Ramekel was caught using illegal drugs in his dormitory by the campus police at Bahir Dar University. As a result, he was expelled from the university. This shows that he violated one of the ________ of the university.",
+    "options": {
+      "A": "Mores",
+      "B": "Customs",
+      "C": "Values",
+      "D": "Folkways"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. A violation that leads to expulsion points to a strong norm, which is mores (በጠንካራ ቅጣት የሚጠበቅ ጠንካራ ደንብ ሞሬስ (mores) ነው።)."
+  },
+  {
+    "question": "22. ____________ is the tendency to see the behavior, belief, value and norms of one's own group as the only right way of living.",
+    "options": {},
+    "correctAnswer": "Ethnocentrism",
+    "explanation": "Ethnocentrism judges other groups by one's own standards (ኢትኖሴንትሪዝም የራስን ቡድን ብቻ ትክክል አድርጎ ማየት ነው።)."
+  },
+  {
+    "question": "23. ____________ are material remains made or modified by past people, but cannot be readily removed from their site.",
+    "options": {},
+    "correctAnswer": "Features",
+    "explanation": "Features are material remains that cannot be moved easily from their site, unlike artifacts (ፊቸርስ ከቦታቸው በቀላሉ ሊነሱ የማይችሉ ቅሪቶች ናቸው።)."
+  }
+]
