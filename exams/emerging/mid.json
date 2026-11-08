@@ -1,0 +1,151 @@
+[
+  {
+    "question": "1. The main aim of data science is extracting knowledge and new insight from data.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True"
+  },
+  {
+    "question": "2. The term emerging technology describes both new and old technology.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. The module says emerging technology usually means a new technology, but it may also refer to the continuing development of existing technology (ኢመርጂንግ ቴክኖሎጂ አዲስ ቴክኖሎጂን ብቻ ሳይሆን የቆየ ቴክኖሎጂ ቀጣይ እድገትንም ይጠቅሳል።)."
+  },
+  {
+    "question": "3. The name “Digital Revolution” indicates the fourth industrial revolution.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The module names the Third Industrial Revolution (IR 3.0) the “Digital Revolution”, which began in the late 1950s (“ዲጂታል አብዮት” የሶስተኛው የኢንዱስትሪ አብዮት ስም ነው፣ አራተኛው አይደለም።)."
+  },
+  {
+    "question": "1. What data type would you use to store a true/false value?",
+    "options": {
+      "A": "Boolean",
+      "B": "Integer",
+      "C": "Float",
+      "D": "Character"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Boolean is restricted to two values, true or false (ቡሊያን ሁለት እሴቶች ብቻ ያሉት ነው።)."
+  },
+  {
+    "question": "2. Cluster computing is better to address the high storage and computational needs of big data. Which one is incorrectly stated about cluster systems behavior?",
+    "options": {
+      "A": "Not fault tolerant",
+      "B": "Resource pooling",
+      "C": "Availability",
+      "D": "Scalability"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is the incorrect statement. The module says clusters provide fault tolerance and high availability, so they are not “not fault tolerant” (ክላስተሮች የስህተት መቻቻል (fault tolerance) አላቸው።)."
+  },
+  {
+    "question": "3. ________ is persistence and management of data in a scalable way.",
+    "options": {
+      "A": "Data Analysis",
+      "B": "Data Curation",
+      "C": "Data Storage",
+      "D": "Data usage"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Data storage is the persistent, scalable management of data (ዳታ ስቶሬጅ ዳታን በዘላቂነትና በሚያድግ መልኩ ማስቀመጥና ማስተዳደር ነው።)."
+  },
+  {
+    "question": "4. ________ is simply an attribute of data that tells the compiler or interpreter how the programmer intends to use and process the data.",
+    "options": {
+      "A": "Meta data",
+      "B": "Data type",
+      "C": "Data value",
+      "D": "Big data"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. A data type tells the compiler or interpreter how the data should be used and processed (ዳታ ታይፕ ኮምፓይለሩ ዳታውን እንዴት እንደሚጠቀምበት የሚነግር ባህሪ ነው።)."
+  },
+  {
+    "question": "5. When you navigate any music in your phone, it shows the size of the music and the date in which it was modified. This information of the data is called:",
+    "options": {
+      "A": "Meta Data",
+      "B": "Big Data",
+      "C": "None",
+      "D": "Music Data"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Information that describes data, such as size and modification date, is metadata (ሜታ ዳታ ስለ ዳታ የሚገልጽ መረጃ ነው።)."
+  },
+  {
+    "question": "6. Fake information identification in big data is complex. Which characteristic of big data is it?",
+    "options": {
+      "A": "Variety",
+      "B": "Volume",
+      "C": "Veracity",
+      "D": "Velocity"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Veracity is about the trustworthiness and accuracy of data (ቬራሲቲ የዳታ እውነተኛነትና አስተማማኝነትን ይመለከታል።)."
+  },
+  {
+    "question": "7. In what industrial revolution did the computing system and software development incorporate?",
+    "options": {
+      "A": "1st IR",
+      "B": "2nd IR",
+      "C": "3rd IR",
+      "D": "4th IR"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. The Third Industrial Revolution introduced computers and digital electronics (ሶስተኛው የኢንዱስትሪ አብዮት ኮምፒውተርና ዲጂታል ቴክኖሎጂ አስተዋወቀ።)."
+  },
+  {
+    "question": "8. In emerging technology, by what computing device does a system execute software instructions to perform a wide variety of tasks?",
+    "options": {
+      "A": "Memory",
+      "B": "Microprocessor",
+      "C": "Logic",
+      "D": "All"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. The module says microprocessors execute software instructions to perform a wide variety of tasks (ማይክሮፕሮሰሰር የሶፍትዌር መመሪያዎችን ያስፈጽማል።)."
+  },
+  {
+    "question": "9. A researcher wants to predict the coming market price status of electronics devices. The researcher collects 5 years of data and needs a consultant (experts) in the field of marketing to refine the data. At what data value chain stage will the consultation process be performed?",
+    "options": {
+      "A": "Analysis",
+      "B": "Curation",
+      "C": "Acquisition",
+      "D": "Processing"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Data curation is the active management of data quality, performed by expert curators (ዳታ ኩሬሽን በባለሙያዎች ዳታውን የማሻሻል ደረጃ ነው።)."
+  },
+  {
+    "question": "10. In which industrial revolution were electrical power and telephones introduced?",
+    "options": {
+      "A": "1st IR",
+      "B": "2nd IR",
+      "C": "3rd IR",
+      "D": "4th IR"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. The module links the Second Industrial Revolution with mass production using electricity (ሁለተኛው የኢንዱስትሪ አብዮት በኤሌክትሪክ ኃይል የተመሰረተ ነው።)."
+  },
+  {
+    "question": "1. List out the three types of data that are used for medical analysis and advising. (1 pt)",
+    "options": {},
+    "correctAnswer": "1. Structured data (SQL records), 2. Semi-structured data (XML medical websites), 3. Unstructured data (patient photographs).",
+    "explanation": "The module classes data as structured (e.g. SQL), semi-structured (e.g. JSON and XML) and unstructured (e.g. images) (ዳታ በሶስት ይከፈላል፦ structured፣ semi-structured እና unstructured።)."
+  },
+  {
+    "question": "2. By what mechanism is this sharing of computing resources done? (1 pt)",
+    "options": {},
+    "correctAnswer": "Cluster computing (clustering): combining the RAM, processors and storage of many machines so they work together as one system (resource pooling).",
+    "explanation": "The module says clustered computing combines the resources of many smaller machines to meet big-data storage and computing needs (ክላስተር ኮምፒውቲንግ የብዙ ማሽኖችን ሀብት በማጣመር ይሰራል።)."
+  }
+]
