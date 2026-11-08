@@ -1,0 +1,222 @@
+[
+  {
+    "question": "I.1. Mental processes are not the concern of the scientific method.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Psychology studies mental processes scientifically, through observation and measurement (ሳይኮሎጂ የአእምሮ ሂደቶችን በሳይንሳዊ ዘዴ ያጠናል።)."
+  },
+  {
+    "question": "I.2. Behaviorists emphasize behaviors that can be directly observable and measured objectively.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Behaviourism focuses on observable, measurable behaviour (ቢሄቪዮሪዝም የሚታዩና የሚለኩ ባህሪዎችን ያጠናል።)."
+  },
+  {
+    "question": "I.3. According to functionalism, the best method for studying the mind is introspection.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Introspection is the structuralist method; functionalism studies the purpose of mental processes using several methods (ኢንትሮስፔክሽን የስትራክቹራሊስቶች ዘዴ ነው።)."
+  },
+  {
+    "question": "I.4. In absolute threshold, the amount of change needed to produce a just noticeable difference is constant.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The constant amount of change needed to produce a just noticeable difference is the difference threshold (Weber's law), not the absolute threshold (አብሶሉት ትሬሾልድ የሚለካው ዝቅተኛው ማነቃቂያ ነው።)."
+  },
+  {
+    "question": "I.5. Sensation is more of biological, whereas perception is more of psychological.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Sensation is the biological reception of stimuli and perception is their psychological interpretation (ስሜት ባዮሎጂያዊ፣ ግንዛቤ (perception) ስነ-ልቦናዊ ነው።)."
+  },
+  {
+    "question": "II.1. A woman who experienced abuse in childhood may prefer isolation. (Matching)",
+    "options": {
+      "A": "Behaviorism perspective",
+      "B": "Cognitive perspective",
+      "C": "Humanistic perspective",
+      "D": "Socio-cultural perspective",
+      "E": "Biological perspective",
+      "F": "Psychodynamics perspective"
+    },
+    "correctAnswer": "F",
+    "explanation": "F is correct. The psychodynamic perspective links childhood experiences to later personality (የፕሲኮዳይናሚክስ አመለካከት የልጅነት ልምድ በኋላ ባህሪ ላይ ያለውን ተጽእኖ ይመለከታል።)."
+  },
+  {
+    "question": "II.2. A person's aggression may be linked to high levels of testosterone hormone. (Matching)",
+    "options": {
+      "A": "Behaviorism perspective",
+      "B": "Cognitive perspective",
+      "C": "Humanistic perspective",
+      "D": "Socio-cultural perspective",
+      "E": "Biological perspective",
+      "F": "Psychodynamics perspective"
+    },
+    "correctAnswer": "E",
+    "explanation": "E is correct. Hormones are a biological factor (ሆርሞን ባዮሎጂያዊ ነገር ነው።)."
+  },
+  {
+    "question": "II.3. Being altruistic or egoistic is the result of personal goals. (Matching)",
+    "options": {
+      "A": "Behaviorism perspective",
+      "B": "Cognitive perspective",
+      "C": "Humanistic perspective",
+      "D": "Socio-cultural perspective",
+      "E": "Biological perspective",
+      "F": "Psychodynamics perspective"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. The humanistic perspective stresses personal goals, choice and self-actualisation (ሂውማኒስቲክ አመለካከት የግል ግብ ላይ ያተኩራል።)."
+  },
+  {
+    "question": "II.4. Believing that my failure does not bring opportunities but is a catastrophe that results in hopelessness. (Matching)",
+    "options": {
+      "A": "Behaviorism perspective",
+      "B": "Cognitive perspective",
+      "C": "Humanistic perspective",
+      "D": "Socio-cultural perspective",
+      "E": "Biological perspective",
+      "F": "Psychodynamics perspective"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Beliefs and thought patterns are the focus of the cognitive perspective (ኮግኒቲቭ አመለካከት በእምነትና በአስተሳሰብ ላይ ያተኩራል።)."
+  },
+  {
+    "question": "II.5. Being heterosexual may be the result of growing up in a culture that promotes opposite-sex relationships. (Matching)",
+    "options": {
+      "A": "Behaviorism perspective",
+      "B": "Cognitive perspective",
+      "C": "Humanistic perspective",
+      "D": "Socio-cultural perspective",
+      "E": "Biological perspective",
+      "F": "Psychodynamics perspective"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. Culture shapes behaviour in the socio-cultural perspective (ሶሺዮ-ካልቸራል አመለካከት በባህል ላይ ያተኩራል።)."
+  },
+  {
+    "question": "III.1. Psychologists have found that feelings of inferiority may play a significant role in the development of personality disorders. This finding relates to which primary goal of psychology?",
+    "options": {
+      "A": "Description",
+      "B": "Explanation",
+      "C": "Prediction",
+      "D": "Control"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Explaining why a disorder develops is explanation (ለምን እንደሚፈጠር ማብራራት ማብራሪያ ነው።)."
+  },
+  {
+    "question": "III.2. When we see the taillights of two airplanes from a distance, they may seem closer together than they really are. This scenario is called:",
+    "options": {
+      "A": "Areal perspective",
+      "B": "Motion parallax",
+      "C": "Linear perspective",
+      "D": "Interposition"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Areal (aerial) perspective: distant objects look closer together and hazier (ኤሪያል ፐርስፔክቲቭ ሩቅ ነገሮች ይቀራረቡ ይመስላሉ።)."
+  },
+  {
+    "question": "III.3. A salesman arranges products with a Nike logo in one group and products with an Adidas logo in another group. This type of perceptual organization is called:",
+    "options": {
+      "A": "Simplicity",
+      "B": "Proximity",
+      "C": "Similarity",
+      "D": "Closure"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Grouping similar items together is similarity (ተመሳሳይ ነገሮችን አንድ ላይ ማሰባሰብ ተመሳሳይነት (similarity) ነው።)."
+  },
+  {
+    "question": "III.4. A psychologist wants to investigate how screen time affects children's attention span. He assigns children into two groups: one group spends a long time watching films on a screen, while the other group spends a long time engaged in play activities. Which one is the independent variable?",
+    "options": {
+      "A": "Attention span",
+      "B": "Screen time",
+      "C": "Age of children",
+      "D": "Watching films"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Screen time is manipulated by the researcher, so it is the independent variable (ስክሪን ታይም ተመራማሪው የሚቆጣጠረው ተለዋዋጭ ነው።)."
+  },
+  {
+    "question": "III.5. Which one of the following is an example of an internal factor that affects selectivity of perception?",
+    "options": {
+      "A": "Size",
+      "B": "Repetition",
+      "C": "Movement",
+      "D": "Expectancy"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. Expectancy is an internal (personal) factor, while size, repetition and movement are external stimulus factors (ሚጠበቅ (expectancy) ውስጣዊ ነገር ነው።)."
+  },
+  {
+    "question": "III.6. If a researcher wants to conduct a study to explore attitudes toward prejudice among Ethiopian university students, which research methodology is more appropriate?",
+    "options": {
+      "A": "Experimental method",
+      "B": "Correlational study",
+      "C": "Case study",
+      "D": "Survey study"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. A survey is the best way to measure attitudes across many students (የአመለካከት መለኪያ ለብዙ ተማሪዎች በዳሰሳ ጥናት (survey) ይደረጋል።)."
+  },
+  {
+    "question": "III.7. Once upon a time, you entered a room filled with a strong stench... after some time you were no longer able to detect the odor. This phenomenon is called:",
+    "options": {
+      "A": "Sensory threshold",
+      "B": "Sensory adaptation",
+      "C": "Selective attention",
+      "D": "Perceptual constancy"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Sensory adaptation is reduced sensitivity to a constant stimulus (ሴንሰሪ አዳፕቴሽን ቋሚ ማነቃቂያ ሲቀጥል ስሜታዊነት መቀነስ ነው።)."
+  },
+  {
+    "question": "III.8. A psychologist designs a study to determine whether increased study time leads to better exam performance. Which goal of psychology is primarily being applied?",
+    "options": {
+      "A": "Description",
+      "B": "Prediction",
+      "C": "Explanation",
+      "D": "Control"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Testing whether one variable causes another is explanation (ጥናቱ የምክንያት-ውጤት ግንኙነት ይፈትሻል፤ ይህ ማብራሪያ ነው።)."
+  },
+  {
+    "question": "III.9. Which of the following sequences correctly represents the scientific method in psychology?",
+    "options": {
+      "A": "Hypothesis → Observation → Conclusion → Experiment",
+      "B": "Observation → Hypothesis → Experiment → Conclusion",
+      "C": "Experiment → Hypothesis → Observation → Theory",
+      "D": "Theory → Conclusion → Observation → Hypothesis"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. The scientific method starts with observation, then hypothesis, experiment and conclusion (የሳይንሳዊ ዘዴ ቅደም ተከተል ምልከታ፣ መላምት፣ ሙከራና መደምደሚያ ነው።)."
+  },
+  {
+    "question": "III.10. In a manufacturing company, employees are encouraged to take their annual vacation leave... to enhance future productivity and job performance. This is the concern of:",
+    "options": {
+      "A": "Industrial psychology",
+      "B": "Social psychology",
+      "C": "Health psychology",
+      "D": "Forensic psychology"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Industrial psychology applies psychology in organisations to improve productivity (ኢንዱስትሪያል ሳይኮሎጂ በድርጅት ውስጥ ምርታማነትን ያሻሽላል።)."
+  }
+]
