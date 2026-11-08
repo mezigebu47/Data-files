@@ -1,0 +1,262 @@
+[
+  {
+    "question": "1. Social hedonism is a consequentialist ethical theory focusing on outcomes and the attainment of collective welfare.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Social hedonism judges actions by their consequences for collective welfare (ማህበራዊ ሄዶኒዝም በውጤት ላይ የሚያተኩር ቴሌሎጂካል ንድፈ ሃሳብ ነው።)."
+  },
+  {
+    "question": "2. Applied ethics deals with the origin and meaning of ethical terms.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Meta-ethics deals with the origin and meaning of ethical terms; applied ethics deals with particular controversial issues (የቃላት አመጣጥና ትርጉም ሜታ-ኢቲክስ ነው።)."
+  },
+  {
+    "question": "3. Ethical relativism is considered as a bedrock of multiculturalism.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Ethical relativism, that morality depends on culture, underpins multiculturalism (ስነ-ምግባር በባህል ላይ የተመሰረተ መሆኑ ለብዝሃ-ባህልነት መሰረት ነው።)."
+  },
+  {
+    "question": "4. Virtue ethics focuses on what kind of person we should be instead of what we should do.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Virtue ethics focuses on character traits (ቨርቹ ኢቲክስ ትኩረቱ ሰው ምን መሆን እንዳለበት ላይ ነው።)."
+  },
+  {
+    "question": "5. According to the Divine command theory, the only justification for obeying God's law is that it results in a reward after death.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Divine command theory holds that God's commands are obeyed because they are commanded by God, not only for reward (የእግዚአብሔር ትእዛዝ መታዘዝ በሽልማት ብቻ አይደለም።)."
+  },
+  {
+    "question": "6. For Socrates, the virtuous person cannot be harmed, as the only real harm is the loss of virtue.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. For Socrates the only real harm is the loss of virtue (ለሶቅራጥስ እውነተኛ ጉዳት ጥሩ ባህሪን ማጣት ብቻ ነው።)."
+  },
+  {
+    "question": "7. The central point of the categorical imperative is treating human beings as a means to your own end.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. The categorical imperative says never to treat humans merely as a means but always also as an end (ሰዎችን ለራስ መጠቀሚያ ብቻ መጠቀም ይከለከላል።)."
+  },
+  {
+    "question": "1. Evaluates particular and controversial moral issues (Matching)",
+    "options": {
+      "A": "Applied Ethics",
+      "B": "Utilitarianism",
+      "C": "Ethical Absolutism",
+      "D": "Ethical Relativism",
+      "E": "Meta Ethics",
+      "F": "Categorical Imperative",
+      "H": "Virtue Ethics"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Applied ethics evaluates particular controversial moral issues (አፕላይድ ኢቲክስ የተለዩ አወዛጋቢ ጉዳዮችን ይመረምራል።)."
+  },
+  {
+    "question": "2. Human beings have a natural dignity to be treated as an end. (Matching)",
+    "options": {
+      "A": "Applied Ethics",
+      "B": "Utilitarianism",
+      "C": "Ethical Absolutism",
+      "D": "Ethical Relativism",
+      "E": "Meta Ethics",
+      "F": "Categorical Imperative",
+      "H": "Virtue Ethics"
+    },
+    "correctAnswer": "F",
+    "explanation": "F is correct. Kant's categorical imperative holds that humans have dignity and must be treated as ends (ካንት ሰው ክብር እንዳለው ያስተምራል።)."
+  },
+  {
+    "question": "3. Moral judgments are dependent on individuals and societal norms. (Matching)",
+    "options": {
+      "A": "Applied Ethics",
+      "B": "Utilitarianism",
+      "C": "Ethical Absolutism",
+      "D": "Ethical Relativism",
+      "E": "Meta Ethics",
+      "F": "Categorical Imperative",
+      "H": "Virtue Ethics"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. Ethical relativism holds that moral judgments depend on individuals and societies (ኤቲካል ሪላቲቪዝም ሞራል ፍርድ በግለሰብና በማህበረሰብ ላይ የተመሰረተ ነው ይላል።)."
+  },
+  {
+    "question": "4. It focuses on building constructive attitudes and character traits. (Matching)",
+    "options": {
+      "A": "Applied Ethics",
+      "B": "Utilitarianism",
+      "C": "Ethical Absolutism",
+      "D": "Ethical Relativism",
+      "E": "Meta Ethics",
+      "F": "Categorical Imperative",
+      "H": "Virtue Ethics"
+    },
+    "correctAnswer": "H",
+    "explanation": "H is correct. Virtue ethics focuses on character traits (ቨርቹ ኢቲክስ የባህሪ ግንባታ ላይ ያተኩራል።)."
+  },
+  {
+    "question": "5. An ethical action advances the collective interest of the people. (Matching)",
+    "options": {
+      "A": "Applied Ethics",
+      "B": "Utilitarianism",
+      "C": "Ethical Absolutism",
+      "D": "Ethical Relativism",
+      "E": "Meta Ethics",
+      "F": "Categorical Imperative",
+      "H": "Virtue Ethics"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Utilitarianism judges actions by advancing the greatest good for the greatest number (ዩቲሊታሪያኒዝም ለብዙሃኑ ጥቅም የሚያስገኝ ድርጊት ትክክል ነው ይላል።)."
+  },
+  {
+    "question": "1. Under ethical ________ objective moral principles can be rationally determined, while under ethical ________ morality is both context-dependent and subjective.",
+    "options": {
+      "A": "Normativity, Relativism",
+      "B": "Relativism, Absolutism",
+      "C": "Absolutism, Relativism",
+      "D": "Absolutism, Normativity"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Absolutism holds objective principles, relativism holds context-dependent morality (አብሶሉቲዝም ተጨባጭ መርሆች ሲኖሩ ሪላቲቪዝም ደግሞ በአውድ የተመሰረተ ሞራል ነው።)."
+  },
+  {
+    "question": "2. In ________ political culture, citizens are endowed with low cognitive, affective and evaluative orientation towards the political system. This contrasts with ________ political culture, where citizens have both the competences and the will to engage in politics.",
+    "options": {
+      "A": "Parochial, participant",
+      "B": "Participant, subject",
+      "C": "Subject, parochial",
+      "D": "Subject, participant"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Parochial culture has low orientation, while participant culture has both competence and will to engage (ፓሮሺያል ዝቅተኛ ተሳትፎ ሲኖረው ፓርቲሲፓንት ግን ብቃትና ፍላጎት አለው።)."
+  },
+  {
+    "question": "3. Deontological theories define a morally right action in terms of:",
+    "options": {
+      "A": "Its consequences.",
+      "B": "Its conformity to certain moral rules.",
+      "C": "The virtuousness of the agent.",
+      "D": "The costs and benefits of the action."
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Deontological theories judge actions by conformity to moral rules (ዲኦንቶሎጂካል ቲዎሪዎች ድርጊት ከሞራል ህጎች ጋር ይስማማ እንደሆነ ይመለከታሉ።)."
+  },
+  {
+    "question": "4. According to Socrates, virtue is ________:",
+    "options": {
+      "A": "Knowledge",
+      "B": "Excellence of a thing",
+      "C": "Justice",
+      "D": "Avoiding extremes"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. For Socrates virtue is knowledge (ለሶቅራጥስ በጎነት እውቀት ነው።)."
+  },
+  {
+    "question": "5. In judging the conduct or action of human beings, we have to take into consideration all of the following, except:",
+    "options": {
+      "A": "The moral situation of the agent",
+      "B": "The consequences",
+      "C": "The means",
+      "D": "None"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is the answer: all of the first three must be considered, so 'None' is the exception (ሶስቱም መታየት አለባቸው።)."
+  },
+  {
+    "question": "6. Among the following ethical theories, one holds that internal and mind pleasure is better than bodily pleasure:",
+    "options": {
+      "A": "Epicureanism",
+      "B": "Psychological egoism",
+      "C": "Cyrenaicism",
+      "D": "None"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Epicureanism values mental pleasure (tranquillity) over bodily pleasure (ኤፒኩሪያኒዝም የአእምሮ ደስታን ከአካል ደስታ በላይ ያስቀድማል።)."
+  },
+  {
+    "question": "7. Which one is not an applied ethical issue?",
+    "options": {
+      "A": "Abortion",
+      "B": "Euthanasia",
+      "C": "Establishing school",
+      "D": "Owning weapons"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is not an applied ethical issue. Abortion, euthanasia and weapons are controversial moral issues, while establishing a school is not (ትምህርት ቤት መክፈት አወዛጋቢ የሞራል ጉዳይ አይደለም።)."
+  },
+  {
+    "question": "8. In Bentham's hedonic calculus, the term 'extent' refers to:",
+    "options": {
+      "A": "How near at hand the pleasure is",
+      "B": "How likely the pleasure is to occur",
+      "C": "The number of people affected by the pleasure",
+      "D": "Its freedom from pain"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Extent is the number of people affected (ኤክስቴንት በደስታው የተጎዱ ሰዎች ብዛት ነው።)."
+  },
+  {
+    "question": "9. Which ethical theory adopts the principle of 'the means justifies the end'?",
+    "options": {
+      "A": "Altruism",
+      "B": "Utilitarianism",
+      "C": "Egoism",
+      "D": "Categorical imperative"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is the intended answer. The module introduces 'the end justifies the means' in the egoism discussion. Utilitarianism is also consequentialist, so this item is ambiguous; please confirm with the instructor (ይህ ጥያቄ አሻሚ ነው።)."
+  },
+  {
+    "question": "10. Which one is not an objective of teaching civics and ethical education?",
+    "options": {
+      "A": "The need for democracy",
+      "B": "The need to build peace",
+      "C": "The need for religion",
+      "D": "All"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is not an objective of civics education (የሃይማኖት ፍላጎት የሲቪክስ ትምህርት ዓላማ አይደለም።)."
+  },
+  {
+    "question": "11. When J.S. Mill advocates 'greatest balance of happiness for the greatest number of people', the term 'greatest' refers to:",
+    "options": {
+      "A": "The best",
+      "B": "The most",
+      "C": "The least",
+      "D": "Too much"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. 'Greatest' refers to the most people receiving happiness (ታላቅ ማለት የብዙዎች ደስታ ማለት ነው።)."
+  },
+  {
+    "question": "IV. 1. Virtuous citizens freely adhere to the fundamental rules required for the maintenance of a system of constitutional government without requiring the imposition of external authority. This refers to ______.",
+    "options": {},
+    "correctAnswer": "Civic virtue (self-discipline)",
+    "explanation": "This describes civic virtue, meaning citizens who follow the rules of constitutional government by self-discipline, without external force (ሲቪክ ቨርቹ ዜጎች ያለ ውጭ ግፊት ህጎችን በራሳቸው ተነሳሽነት የሚከተሉበት ነው።)."
+  }
+]
