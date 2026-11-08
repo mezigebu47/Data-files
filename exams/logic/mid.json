@@ -1,0 +1,355 @@
+[
+  {
+    "question": "1. Rationalism is a theory of epistemology that argues that sense-observation is the source of knowledge.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Rationalism says reason is the source of knowledge; empiricism says sense observation is (ራሽናሊዝም ምክንያትን ሲያስቀድም ኢምፒሪሲዝም ስሜት ምልከታን ያስቀድማል።)."
+  },
+  {
+    "question": "2. In deductive argument, a certain argument is valid as long as the conclusion is probably followed from the premises.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. A deductive argument is valid when the conclusion necessarily follows, not probably (ዲዱክቲቭ ትክክለኛነት የሚሆነው መደምደሚያው በግድ ሲከተል ነው።)."
+  },
+  {
+    "question": "3. Philosophical questions are specific and merely a question of facts.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Philosophical questions are general and conceptual, not merely factual (የፍልስፍና ጥያቄዎች አጠቃላይና ጽንሰ-ሃሳባዊ ናቸው።)."
+  },
+  {
+    "question": "4. A deductive argument having true premise and false conclusion can be both valid and invalid.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Such an argument is invalid, because valid arguments cannot have true premises and a false conclusion (እውነተኛ ግቢ እና ሐሰተኛ መደምደሚያ ያለው ዲዱክቲቭ ክርክር ትክክል አይደለም።)."
+  },
+  {
+    "question": "5. Learning philosophy leads students to become critical and rational thinkers.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. Philosophy trains critical and rational thinking (ፍልስፍና ተማሪዎችን ወሳኝና ምክንያታዊ አሳቢ ያደርጋል።)."
+  },
+  {
+    "question": "6. Some conditional statements can be re-expressed to form an argument.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. A conditional statement can be restated as an argument with premises and a conclusion (ሁኔታዊ መግለጫ ወደ ክርክር ሊቀየር ይችላል።)."
+  },
+  {
+    "question": "7. Mastering the content and arguments of other philosophers is the best way to be a philosopher.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. Philosophy requires critical thinking and building one's own arguments, not only memorising others' (ፍልስፍና የራስን ክርክር መገንባት ይጠይቃል።)."
+  },
+  {
+    "question": "8. A deductive argument constructed by the form of syllogism always contains exactly two conclusions and one premise.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. A syllogism has two premises and one conclusion (ሲሎጅዝም ሁለት ግቢዎችና አንድ መደምደሚያ አለው።)."
+  },
+  {
+    "question": "9. 'For this reason' is a special indicator that comes immediately after the premise and before the conclusion in an argumentative passage.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "A",
+    "explanation": "True. The module says 'for this reason' comes immediately after the premise and before the conclusion (ለዚህ ምክንያት 'for this reason' ከግቢው በኋላ እና ከመደምደሚያው በፊት ይመጣል።)."
+  },
+  {
+    "question": "10. All non-argumentative passages have no means of being argumentative passages.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. A non-argumentative passage can be made argumentative, so the statement is false (ያልሆነ ክርክር ወደ ክርክር ሊቀየር ይችላል።)."
+  },
+  {
+    "question": "11. Good arguments appear as a result of the actual truth of statements in argumentative passages.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctAnswer": "B",
+    "explanation": "False. A good argument needs validity (form) and, for soundness, true premises; actual truth alone does not make an argument good (ጥሩ ክርክር የሚሆነው ትክክለኛ ቅርጽ ሲኖረው ነው።)."
+  },
+  {
+    "question": "12. The study of nature and purpose of God (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. Theology studies God (ቲዮሎጂ የእግዚአብሔርን ተፈጥሮና ዓላማ ያጠናል።)."
+  },
+  {
+    "question": "13. Theory of values (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "I",
+    "explanation": "I is correct. Axiology is the theory of values (አክሲዮሎጂ የእሴቶች ጥናት ነው።)."
+  },
+  {
+    "question": "14. Deals with the mind-body problem (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. The module places the mind-body question under the anthropological aspect (የአዕምሮና የአካል ጥያቄ የአንትሮፖሎጂካል ጉዳይ ነው።)."
+  },
+  {
+    "question": "15. The study about nature, scope and meaning of knowledge (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "H",
+    "explanation": "H is correct. Epistemology studies knowledge (ኤፒስቲሞሎጂ ስለ እውቀት ጥናት ነው።)."
+  },
+  {
+    "question": "16. A science of correct reasoning (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "G",
+    "explanation": "G is correct. Logic is the science of correct reasoning (ሎጂክ ትክክለኛ ምክንያታዊነት ሳይንስ ነው።)."
+  },
+  {
+    "question": "17. Sense experience is the source of knowledge (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Empiricism holds that sense experience is the source of knowledge (ኢምፒሪሲዝም ስሜት ምልከታ የእውቀት ምንጭ ነው ይላል።)."
+  },
+  {
+    "question": "18. The study of the nature of existence (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. Ontology studies the nature of existence (ኦንቶሎጂ የመኖር ተፈጥሮ ጥናት ነው።)."
+  },
+  {
+    "question": "19. The study of origin, nature, and development of the universe (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "F",
+    "explanation": "F is correct. Cosmology studies the universe (ኮስሞሎጂ የዩኒቨርስ ጥናት ነው።)."
+  },
+  {
+    "question": "20. Direct or immediate apprehension (Matching)",
+    "options": {
+      "A": "Empiricism",
+      "B": "Anthropological aspect",
+      "C": "Ontological aspect",
+      "D": "Theology",
+      "E": "Intuition",
+      "F": "Cosmological",
+      "G": "Logic",
+      "H": "Epistemology",
+      "I": "Axiology"
+    },
+    "correctAnswer": "E",
+    "explanation": "E is correct. Intuition is direct, immediate apprehension (ኢንቱሽን ቀጥተኛ ግንዛቤ ነው።)."
+  },
+  {
+    "question": "21. Which of the following is false about argument forms?",
+    "options": {
+      "A": "The idea of conclusion goes beyond the idea of premises under inductive argument.",
+      "B": "Mathematical expressions like statistics are interpreted as inductive arguments.",
+      "C": "The meaning of premise and conclusion is the same under argument based on definition.",
+      "D": "Inductive arguments are wrong because there is weak inferential claim."
+    },
+    "correctAnswer": "D",
+    "explanation": "D is false. Inductive arguments are not wrong; they can be strong or weak (ኢንዳክቲቭ ክርክሮች ስህተት አይደሉም፤ ጠንካራ ወይም ደካማ ሊሆኑ ይችላሉ።)."
+  },
+  {
+    "question": "22. While distinguishing premise and conclusion of an argument, questions like 'what single statement is claimed to follow from others?' will help us identify all except:",
+    "options": {
+      "A": "The existence of reasoning process",
+      "B": "Conclusion of argument",
+      "C": "Passing comment",
+      "D": "Inferential claim"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is the exception. A passing comment is not part of an argument's reasoning (መንገዳገድ አስተያየት የክርክር አካል አይደለም።)."
+  },
+  {
+    "question": "23. From the following statements, which one is false about argument?",
+    "options": {
+      "A": "Invalid deductive arguments are unsound.",
+      "B": "All unsound deductive arguments are invalid.",
+      "C": "Sound deductive arguments are valid.",
+      "D": "Validity of an argument is determined by the actual truth of statements in the argument."
+    },
+    "correctAnswer": "D",
+    "explanation": "D is false. Validity depends on the form of the argument, not on the actual truth of its statements (ትክክለኛነት በቅርጽ ይወሰናል፤ በእውነተኛነት አይደለም።)."
+  },
+  {
+    "question": "24. All of the following are correct statements, except:",
+    "options": {
+      "A": "If the premises necessarily support the conclusion, such an argument is deductive.",
+      "B": "A single conditional statement is an argument.",
+      "C": "All passages that contain indicator words may or may not be arguments.",
+      "D": "All statements are sentences, but not all sentences are statements."
+    },
+    "correctAnswer": "B",
+    "explanation": "B is the exception. A single conditional statement is not an argument by itself (ነጠላ ሁኔታዊ መግለጫ ብቻውን ክርክር አይደለም።)."
+  },
+  {
+    "question": "25. All Ethiopians speak English language. All Kenyans are Ethiopians. Therefore, all Kenyans are speaking English language. This argument is:",
+    "options": {
+      "A": "Deductive, Valid and Sound",
+      "B": "Inductive, Strong and Cogent",
+      "C": "Deductive, Invalid and Unsound",
+      "D": "Deductive, Valid and Unsound"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. The form is valid, but the first premise is false, so it is unsound (ቅርጹ ትክክል ነው፤ ግቢው ግን ሐሰት ነው።)."
+  },
+  {
+    "question": "26. All are the basic criteria of evaluating an argument except:",
+    "options": {
+      "A": "The existence of factual claim",
+      "B": "Inferential link between premises and conclusion",
+      "C": "The reasoning process",
+      "D": "The mere existence of indicator words"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is the exception. Indicator words alone do not evaluate an argument (የተለዩ ቃላት መኖር ብቻውን ክርክርን አይገመግምም።)."
+  },
+  {
+    "question": "27. Dr. Ashebir's argument: Abebe Bikila won in Tokyo, therefore Ethiopian athletes will win the 2020 Tokyo marathon. The argument is:",
+    "options": {
+      "A": "Inductive, Strong",
+      "B": "Inductive, Weak",
+      "C": "Deductive, Valid",
+      "D": "Deductive, Invalid"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. It is an inductive argument from one case to a future outcome, and it is weak (ከአንድ ጉዳይ ወደ ወደፊት መደምደሚያ የሚሄድ ኢንዳክቲቭ ክርክር ደካማ ነው።)."
+  },
+  {
+    "question": "28. In which of the following combinations does a valid deductive argument not occur?",
+    "options": {
+      "A": "If the premise(s) is/are presumed true and then the conclusion is false.",
+      "B": "If the premise(s) is/are presumed true and then the conclusion is true.",
+      "C": "If the premise(s) is/are presumed false and then the conclusion is true.",
+      "D": "If the premise(s) is/are presumed false and then the conclusion is false."
+    },
+    "correctAnswer": "A",
+    "explanation": "A is the combination that cannot occur in a valid deductive argument (እውነተኛ ግቢ እና ሐሰተኛ መደምደሚያ ትክክለኛ ክርክር አያደርግም።)."
+  },
+  {
+    "question": "29. Which of the following alternatives contains all argumentative forms?",
+    "options": {
+      "A": "Expository passages, reports, pieces of advice.",
+      "B": "Illustrations, syllogisms, explanations.",
+      "C": "Predictions, categorical syllogisms, arguments from signs.",
+      "D": "Warnings, conditional statements, statements of belief."
+    },
+    "correctAnswer": "C",
+    "explanation": "C is the best answer. These are argumentative forms (ክርክር ቅርጾች ናቸው።)."
+  },
+  {
+    "question": "30. Pertaining to Philosophy and Logic, which one of the following is a false statement?",
+    "options": {
+      "A": "Philosophers use Logic to construct their own arguments and to evaluate the arguments of others.",
+      "B": "Philosophy and Logic deal with far apart concepts and views.",
+      "C": "It is not possible to be a philosopher without having the concept of Logic.",
+      "D": "As compared to Logic, Philosophy is more comprehensive."
+    },
+    "correctAnswer": "B",
+    "explanation": "B is false. Philosophy and Logic are closely related (ፍልስፍና እና ሎጂክ ቅርብ ናቸው።)."
+  }
+]
