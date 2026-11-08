@@ -1,0 +1,124 @@
+[
+  {
+    "question": "1. Which of the following are vectors?",
+    "options": {
+      "A": "The volume of water in a can",
+      "B": "The age of the Universe",
+      "C": "The height of a building",
+      "D": "The velocity of a sports car"
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. Velocity has both magnitude and direction; volume, age and height are scalars (ፍጥነት (velocity) መጠንና አቅጣጫ ያለው ቬክተር ነው።)."
+  },
+  {
+    "question": "2. Regarding projectile velocities, which of the following statements is NOT true?",
+    "options": {
+      "A": "Vertical velocity magnitude decreases.",
+      "B": "Vertical velocity direction is upward.",
+      "C": "Horizontal velocity component remains constant.",
+      "D": "Both the magnitude and direction of vertical velocity never change."
+    },
+    "correctAnswer": "D",
+    "explanation": "D is the statement that is NOT true. Gravity changes the vertical velocity continuously, so its magnitude and direction do change (የቁም ፍጥነት መጠንና አቅጣጫ ይለወጣሉ።)."
+  },
+  {
+    "question": "3. A rocket is fired with an initial velocity of 30 m/s at an angle of 60° above the horizontal. It explodes on the mountain side 5.00 s after its firing. What are the x- and y-coordinates of the rocket relative to its firing point, respectively?",
+    "options": {
+      "A": "4 m and 75 m",
+      "B": "75 m and 4 m",
+      "C": "75 m and 129 m",
+      "D": "129 m and 75 m"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is the closest option, but the exact answer is about 75 m and 7.4 m. x = (30 cos60°)(5) = 75 m. y = (30 sin60°)(5) − ½(9.8)(5)² = 129.9 − 122.5 ≈ 7.4 m. Option C (129 m) ignores gravity, so the exam key may contain an error (ያለ ስበት ስሌት 129 m ይወጣል፤ ትክክለኛው y ≈ 7.4 m ነው።)."
+  },
+  {
+    "question": "4. An object is projected vertically upward near the surface of the Earth. At the very top of its path, the object's velocity is zero, and its acceleration is:",
+    "options": {
+      "A": "0 m/s²",
+      "B": "9.8 m/s² downward",
+      "C": "9.8 m/s² upward",
+      "D": "Depends on the mass of the object"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Gravity always acts downward with g = 9.8 m/s², even when the velocity is zero at the top (ስበት ሁልጊዜ ወደ ታች ነው፤ ፍጥነቱ ዜሮ ቢሆንም 9.8 m/s² ወደ ታች ነው።)."
+  },
+  {
+    "question": "5. A projectile is fired at an angle of 30° with an initial speed of 20 m/s. Neglecting air resistance, what is the horizontal velocity of the projectile?",
+    "options": {
+      "A": "20 m/s",
+      "B": "10 m/s",
+      "C": "17.2 m/s",
+      "D": "5 m/s"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. v_x = 20 cos30° = 17.3 m/s; the option 17.2 m/s is the closest (ቁመታዊ ያልሆነው አካል 20 × cos30° ≈ 17.3 m/s ነው።)."
+  },
+  {
+    "question": "6. An object is moving with constant non-zero acceleration in the positive x-direction. The position versus time graph of this object is:",
+    "options": {
+      "A": "A horizontal straight line.",
+      "B": "A vertical straight line.",
+      "C": "A straight line making an angle with the time axis.",
+      "D": "A parabolic curve."
+    },
+    "correctAnswer": "D",
+    "explanation": "D is correct. With constant acceleration, x = x₀ + v₀t + ½at², which is a parabola (ቋሚ ማፋጠን ያለው እንቅስቃሴ x–t ግራፍ ፓራቦላ ነው።)."
+  },
+  {
+    "question": "7. An object moving with uniform acceleration has a velocity of 12.0 cm/s in the positive x direction when its x coordinate is 3.00 cm. If its x coordinate 2.00 s later is -5.00 cm, what is its acceleration?",
+    "options": {
+      "A": "16 cm/s²",
+      "B": "-8 cm/s²",
+      "C": "-16 cm/s²",
+      "D": "8 cm/s²"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. −5 = 3 + 12(2) + ½a(2)² gives 2a = −32, so a = −16 cm/s² (በቀመሩ a = −16 cm/s² ይወጣል።)."
+  },
+  {
+    "question": "8. According to Newton's Second Law of Motion, if the mass of an object is doubled, how does the force change for the same acceleration?",
+    "options": {
+      "A": "Halved",
+      "B": "Remains the same",
+      "C": "Doubled",
+      "D": "Quadrupled"
+    },
+    "correctAnswer": "C",
+    "explanation": "C is correct. F = ma, so for the same acceleration, doubling m doubles F (F = ma ስለሆነ ጅምላው በእጥፍ ሲጨምር ኃይሉም በእጥፍ ይጨምራል።)."
+  },
+  {
+    "question": "9. An object of mass 2 kg is sliding with a constant velocity of 4 m/s on a frictionless horizontal table. The force required to keep the object moving with the same velocity is:",
+    "options": {
+      "A": "32 N",
+      "B": "0 N",
+      "C": "2 N",
+      "D": "8 N"
+    },
+    "correctAnswer": "B",
+    "explanation": "B is correct. Constant velocity means zero acceleration, and with no friction the net force is zero (ቋሚ ፍጥነት ማለት ዜሮ ማፋጠን ነው፤ ግጭት ከሌለ ኃይል አያስፈልግም።)."
+  },
+  {
+    "question": "10. A force F₁ of magnitude 6.00 units acts at the origin in a direction 30.0° above the positive x-axis. A second force F₂ of magnitude 5.00 units acts at the origin in the direction of the positive y-axis. What are the magnitude and direction of the resultant force?",
+    "options": {
+      "A": "9.52 N at an angle of 57.2° above the positive x-axis.",
+      "B": "7.18 N at an angle of 44.1° above the positive x-axis.",
+      "C": "9.52 N at an angle of 57.2° above the negative x-axis.",
+      "D": "7.18 N at an angle of 44.1° above the negative x-axis."
+    },
+    "correctAnswer": "A",
+    "explanation": "A is correct. Rx = 6cos30° = 5.20, Ry = 6sin30° + 5 = 8.00; R = √(5.20² + 8.00²) ≈ 9.54 N (≈ 9.52 N), θ = tan⁻¹(8.00/5.20) ≈ 57° above the +x axis (ውጤቱ ከ+x ዘንግ 57° ወደ ላይ ነው።)."
+  },
+  {
+    "question": "11. Boxes A (20.0 kg) and B (5.0 kg) are in contact on a frictionless surface. A horizontal 100 N force pushes box A. What is the magnitude of the force that box A exerts on box B?",
+    "options": {},
+    "correctAnswer": "20 N. a = F/(m_A + m_B) = 100/25.0 = 4.0 m/s². Force on B: F_AB = m_B·a = 5.0 × 4.0 = 20 N.",
+    "explanation": "Treat A and B as one system to find the acceleration, then apply F = ma to box B alone (ሁለቱን እንደ አንድ ስርዓት ይቁጠሩ፤ ከዚያ ለB ብቻ F = ma ይጠቀሙ።)."
+  },
+  {
+    "question": "12. A 32.5 kg probe is subjected to a constant force of 140 N after being stationary. (a) What is the acceleration due to the force? (b) How far away is it from the ship if the trip back takes 10 seconds?",
+    "options": {},
+    "correctAnswer": "(a) a = F/m = 140 / 32.5 ≈ 4.31 m/s². (b) The question is unclear: it mentions a “ship” and a “trip back” that are not described. If the probe starts from rest and accelerates for 10 s, the distance is d = ½at² = ½(4.31)(10)² ≈ 215 m.",
+    "explanation": "Part (a) is clear. Part (b) is not fully stated in the question, so the answer assumes the probe accelerates from rest for 10 s; please check the original question (ክፍል (ለ) ግልጽ አይደለም፤ ስለ 'መርከብ' እና 'የመመለስ ጉዞ' ምንም አልተገለጸም።)."
+  }
+]
